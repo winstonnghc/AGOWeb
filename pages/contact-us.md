@@ -7,7 +7,7 @@ locations:
   - title: Address
     address:
         - 5 Maxwell Road 
-        - \#07-00
+        - '#07-00'
         - Singapore 069110
         - Nearest MRT station - Tanjong Pagar
 contacts:
