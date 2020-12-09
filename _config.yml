@@ -1,6 +1,6 @@
-title: Title
+title: VITAL
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/general/favicon.ico
 
 # Site colors
 colors:
@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+  home:
+    output: true
   about-us:
     output: true
   out-portfolio:
@@ -27,7 +29,7 @@ collections:
   career:
     output: true
 
-description: An Isomer site of the Singapore Government
+description: VITAL is the shared services arm of the Singapore Government. We aggregate common corporate services to derive economies of scale to achieve efficiency and effectiveness.
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
