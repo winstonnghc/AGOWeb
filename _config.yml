@@ -1,6 +1,7 @@
 title: VITAL
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/general/favicon.ico
+agency-logo: /images/general/logo.png
 
 # Site colors
 colors:
