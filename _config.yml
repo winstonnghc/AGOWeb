@@ -21,8 +21,6 @@ colors:
 
 
 collections:
-  home:
-    output: true
   about-us:
     output: true
   out-portfolio:
