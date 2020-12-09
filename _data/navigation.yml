@@ -9,8 +9,6 @@ logo: /images/general/logo.png
 links:
   - title: Home
     url: /
-  - title: Contact Us
-    url: /contact-us/
   - title: About Us
     collection: about-us
   - title: Out Portfolio
