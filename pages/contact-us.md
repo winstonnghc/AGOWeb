@@ -4,11 +4,12 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 locations:
-  - title: Main Office
+  - title: Address
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 5 Maxwell Road 
+        - \#07-00
+        - Singapore 069110
+        - Nearest MRT station - Tanjong Pagar
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -26,7 +27,7 @@ contacts:
     - phone: +65 6123 4567
     - email: enquiries@abc.gov.sg
     - other: Any text here <i>including HTML</i>
-  - title: Careers
+  - title: Recruitment Enquiries
     content:
-    - email: careers@abc.gov.sg
+    - email: vital_recruit@vital.gov.sg
 ---

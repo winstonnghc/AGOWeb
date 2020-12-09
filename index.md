@@ -23,5 +23,3 @@ sections:
         button: Button text
         url: /faq/
 ---
-
-<div>Testing</div>
