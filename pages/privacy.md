@@ -1,7 +1,6 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
-permalink: Privacy Statement
 ---
 
 ### GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
