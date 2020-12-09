@@ -16,10 +16,4 @@ sections:
             url: /career/being-vital
           - title: Partnership
             url: /our-portfolio/for-suppliers
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
 ---
