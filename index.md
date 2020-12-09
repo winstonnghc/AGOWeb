@@ -13,12 +13,12 @@ sections:
         subtitle: Building strong partnership is crucial for us to excel in our work.
         background: /images/hero/hero-banner.png
         key-highlights:
-          - title: Corporate Services
-            url: /our-portfolio/services
-          - title: Career
-            url: /career/being-vital
-          - title: Partnership
-            url: /our-portfolio/for-suppliers
+            - title: Corporate Services
+              url: /our-portfolio/services
+            - title: Career
+              url: /career/being-vital
+            - title: Partnership
+              url: /our-portfolio/for-suppliers
     - infobar:
         title: Infobar title
         subtitle: Subtitle
