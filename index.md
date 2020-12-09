@@ -49,4 +49,7 @@ sections:
               url: /privacy/
     - infobar:
         title: WHO WE ARE
+        description: <div>Some block here</div>
+        button: Button text
+        url: /faq/
 ---
