@@ -3,11 +3,11 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
-locations:
+locations: 
   - title: Address
     address:
         - 5 Maxwell Road 
-        - #07-00
+        - <span>#07-00</span>
         - Singapore 069110
         - Nearest MRT station - Tanjong Pagar
 contacts:
