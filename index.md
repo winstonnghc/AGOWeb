@@ -48,9 +48,5 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: WHO WE ARE
 ---
