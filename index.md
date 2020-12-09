@@ -9,7 +9,7 @@ sections:
         title: Forging VITAL Partnerships
         subtitle: Building strong partnership is crucial for us to excel in our work.
         background: /images/hero/hero-banner.png
-        key-highlights:
+        key_highlights:
           - title: Corporate Services
             url: /our-portfolio/services
           - title: Career
@@ -23,4 +23,3 @@ sections:
         button: Button text
         url: /faq/
 ---
-
