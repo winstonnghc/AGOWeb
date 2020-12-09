@@ -1,27 +1,16 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: VITAL
+description: VITAL is the shared services arm of the Singapore Government. We aggregate common corporate services to derive economies of scale to achieve efficiency and effectiveness.
+image: /images/general/logo.png
+favicon: /image/general/favicon.ico
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        title: Forging VITAL Partnerships
+        subtitle: Building strong partnership is crucial for us to excel in our work.
+        background: /images/hero/hero-banner.png
     - infobar:
         title: Infobar title
         subtitle: Subtitle
