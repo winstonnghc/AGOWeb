@@ -47,6 +47,6 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
-    - infobar:
-        title: WHO WE ARE
 ---
+
+<div>Testing</div>
