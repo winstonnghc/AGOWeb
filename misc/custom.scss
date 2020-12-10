@@ -344,7 +344,11 @@ $desktop: 960px + (2 * $gap) !default;
 
 h1 + .home-video,
 h1 + p + .home-video{
-  padding-top: 1.5em;
+  padding-top: 1.5em !important;
+
+  iframe{
+    top: 1.5em !important;
+  }
 }
 
 .home-video {
