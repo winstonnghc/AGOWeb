@@ -336,6 +336,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+
+/* Customize  */
 .key-highlights-text.key-highlights-text {
   padding: 1em 2em !important;
+}
+
+.home-video {
+    width: 100%;
 }
