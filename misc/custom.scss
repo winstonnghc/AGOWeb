@@ -420,5 +420,7 @@ h1 + p + .home-video{
 }
 
 .vital-table-1{
-  
+  tr:hover td{
+    background: {{-site.colors.tr-hover-color -}}
+  }
 }
