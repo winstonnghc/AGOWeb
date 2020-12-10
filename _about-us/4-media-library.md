@@ -4,7 +4,7 @@ permalink: /about-us/media-library/
 ---
 
 
-## Publications
+### Publications
 
 <table class="vital-table-1">
    <thead>
@@ -26,7 +26,7 @@ permalink: /about-us/media-library/
 </table>
 
 
-## Videos
+### Videos
 
 <table class="tab_media_library">
    <thead>
