@@ -4,12 +4,6 @@ feedback: /feedback/
 faq: /faq/
 copyright_agency: VITAL GOVERNMENT OF SINGAPORE
 navlinks:
-  - title: About Us
-    collection: about-us
-  - title: Out Portfolio
-    collection: out-portfolio
-  - title: Career
-    collection: career
 links:
   - title: Useful Links
     url: /useful-links
