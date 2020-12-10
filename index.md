@@ -30,4 +30,6 @@ sections:
         url: /career/home/our-vitalites
         image: /images/home/working-in-vital.jpg
         alt: Working in VITAL
+    - infobar:
+        description: <div>Testing</div>
 ---
