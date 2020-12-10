@@ -14,4 +14,4 @@ Join the VITAL family today and be part of a quality team!
 <a class="" href="http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=vital&job-sector=" target="_blank">View Opportunities</a>
 
 
-<img src="/images/VITALites.jpg" alt="VITALites" />
+<img src="/images/career/VITALites.jpg" alt="VITALites" /> 
