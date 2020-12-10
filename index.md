@@ -24,20 +24,10 @@ sections:
         image: /images/overview.jpg
         alt: Overview
     - infopic:
-        title: Overview
-        description: VITAL is the shared services arm of the Singapore public service serving more than 90,000 public officers over a wide range of corporate and administrative processes in finance, human resource and procurement.
+        title: Working in VITAL
+        description: As part of VITAL, you will play a key role in delivering corporate services to public agencies and officers. You will also have the opportunity to work on projects to optimise processes and improve efficiency.  
         button: Find out more
         url: /about-us/overview
-        image: /images/overview.jpg
-        alt: Overview
-    - infopic:
-        title: Overview
-        description: VITAL is the shared services arm of the Singapore public service serving more than 90,000 public officers over a wide range of corporate and administrative processes in finance, human resource and procurement.
-        button: Find out more
-        url: /about-us/overview
-        image: /images/overview.jpg
-        alt: Overview
+        image: /career/our-vitalites
+        alt: Working in VITAL
 ---
-
-
-<div>Testing</div>
