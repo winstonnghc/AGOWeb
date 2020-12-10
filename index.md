@@ -31,5 +31,5 @@ sections:
         image: /images/home/working-in-vital.jpg
         alt: Working in VITAL
     - infobar:
-        description: <div>Testing</div>
+        description: <div><iframe id="corp_video_player" title="Corporate Video" width="640" height="350" src="https://www.youtube.com/embed/ctwGWSLHzAU?rel=0&amp;showinfo=0" allow="encrypted-media" allowfullscreen="" contenteditable="false"></iframe></div>
 ---
