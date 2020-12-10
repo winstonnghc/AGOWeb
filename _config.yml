@@ -8,6 +8,7 @@ colors:
   primary-color: '#a91932'
   secondary-color: '#a91932'
   tr-hover-color: '#dfe6ef'
+  h4: '#2F4692'
   media-colors:
     - title: media-color-one
       color: '#49759a'
