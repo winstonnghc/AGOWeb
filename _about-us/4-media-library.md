@@ -36,7 +36,7 @@ permalink: /about-us/media-library/
       </tr>
    </thead>
    <tbody>
-      <tr class="tr_videos" style="display: none;">
+      <tr class="tr_videos">
          <td class="item-date">
             01 Jan 2016									
          </td>
