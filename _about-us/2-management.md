@@ -2,7 +2,7 @@
 title: Management
 permalink: /about-us/management/
 ---
-<table class="iveo_table ives_tab_blue" style="width: 80%;">
+<table class="vital-table-1">
    <tbody>
       <tr>
          <th>
