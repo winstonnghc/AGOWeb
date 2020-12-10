@@ -11,8 +11,8 @@ navlinks:
   - title: Career
     collection: career
 links:
-  - title: Useful Links
-    url: /useful-links
   - title: Best Viewed Browsers
     url: /best-viewed-browsers
+  - title: Useful Links
+    url: /useful-links
 
