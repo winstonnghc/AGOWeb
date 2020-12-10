@@ -450,5 +450,5 @@ h1 + p + .home-video{
 }
 
 h4{
-  color: {{-site.colors.h4 -}}
+  color: {{-site.colors.h4 -}} !important;
 }
