@@ -9,6 +9,6 @@ permalink: /about-us/partners/
 <div class="partners">
     <a href="https://www.mof.gov.sg" target="_blank" ><img src="/images/partners/mof.jpg" alt="mof" class="ive_eobj_center ive_clickable" /></a>
     <a href="https://www.psd.gov.sg" target="_blank" ><img src="/images/partners/psd.jpg" alt="psd" class="ive_eobj_center ive_clickable" /></a>
-    <a href="https://www.agd.gov.sg" target="_blank" ><img src="/images/partners/adg_logo.jpg" alt="adg" class="ive_eobj_center ive_clickable" /></a>
+    <a href="https://www.agd.gov.sg" target="_blank" ><img src="/images/partners/agd_logo.jpg" alt="agd" class="ive_eobj_center ive_clickable" /></a>
     <a href="https://www.tech.gov.sg" target="_blank" ><img src="/images/partners/gov-tech.jpg" alt="gov-tech" class="ive_eobj_center ive_clickable" /></a>
 </div>
