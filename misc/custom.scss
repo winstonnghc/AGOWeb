@@ -435,6 +435,13 @@ h1 + p + .home-video{
     flex: 1 1 auto;
     width: 200px;
     padding: 1em;
+    @media (min-width: 450px){
+      max-width: 50%;
+    }
+
+    @media (min-width: 767px){
+      max-width: 25%;
+    }
   }
 
   img{
