@@ -35,7 +35,7 @@ permalink: /about-us/overview/
         <p>A leading provider of corporate services and solutions for public service agencies.</p>
     </div>
     <div class="block">
-        <img src="/images/overview/our-values.jpg" alt="Our Core Values" />
+        <img src="/images/overview/core-values.jpg" alt="Our Core Values" />
         <h3>Our Core Values</h3>
         <p>A leading provider of corporate services and solutions for public service agencies.</p>
     </div>
