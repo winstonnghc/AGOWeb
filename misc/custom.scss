@@ -424,3 +424,20 @@ h1 + p + .home-video{
     background: {{-site.colors.tr-hover-color -}}
   }
 }
+
+.partners{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -1em;
+
+  & > a{
+    display: block;
+    flex: 1 1 auto;
+    width: 200px;
+    padding: 1em;
+  }
+
+  img{
+    width: 100%;
+  }
+}
