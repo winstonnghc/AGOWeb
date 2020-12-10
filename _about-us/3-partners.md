@@ -1,6 +1,7 @@
 ---
 title: Partners
 permalink: /about-us/partners/
+description: VITAL’s key partners
 ---
 
 VITAL helps over 100 public agencies in Singapore take care of their administrative and corporate processes in the areas of Human Resource, Finance and Procurement.

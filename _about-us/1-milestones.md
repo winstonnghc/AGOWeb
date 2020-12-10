@@ -1,6 +1,7 @@
 ---
 title: Milestones
 permalink: /about-us/milestones/
+description: Key events that took place since VITAL’s formation
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Management
 permalink: /about-us/management/
+description: VITAL’s management team
 ---
 <table class="vital-table-1">
    <tbody>

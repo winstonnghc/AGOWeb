@@ -1,6 +1,7 @@
 ---
 title: Overview
 permalink: /about-us/overview/
+description: VITAL serves more than 90,000 public officers from over 100 agencies.
 ---
 
 <div id="overview-counter" >

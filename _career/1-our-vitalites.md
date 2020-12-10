@@ -1,6 +1,7 @@
 ---
 title: Our Vitalites
 permalink: /career/our-vitalites/
+description: Let our folks tell you why VITAL is a great workplace!
 ---
 
 <div class="content-box img-content">

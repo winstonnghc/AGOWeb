@@ -452,3 +452,32 @@ h1 + p + .home-video{
 h4{
   color: {{-site.colors.h4 -}} !important;
 }
+
+.content-box{
+  display: flex;
+  padding-bottom: 3em;
+  align-items: flex-start;
+  justify-content: space-between;
+  
+  & > *{
+      flex: 0 0 auto;
+      display: block;
+      width: 47%;
+  }
+  
+  &.content-img{
+      flex-direction: row-reverse;
+  }
+  
+  @media (max-width: 600px)  {
+      flex-direction: column !important;
+      & > * {
+          width: 100%;
+          
+          img {
+              width: auto !important;
+              margin: auto auto 2em;
+          }
+      }
+  }
+}

@@ -1,6 +1,7 @@
 ---
 title: Being Vital
 permalink: /career/being-vital/
+description: Join VITAL for a fulfilling career to deliver and improve corporate services to Singapore public agencies.
 ---
 
 At VITAL, we strive to be a provider of quality corporate services and to create value for our service partners.

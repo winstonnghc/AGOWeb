@@ -1,6 +1,7 @@
 ---
 title: Media Library
 permalink: /about-us/media-library/
+description: Depository of VITAL’s publications, videos, and media materials
 ---
 
 

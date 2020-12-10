@@ -1,6 +1,7 @@
 ---
 title: Innovation And Improvement
 permalink: /out-portfolio/innovation-and-improvement/
+description: Key innovations and improvements that VITAL spearheaded
 ---
 
 At VITAL, we strive to improve our systems and processes to deliver corporate shared services to public agencies and officers efficiently.

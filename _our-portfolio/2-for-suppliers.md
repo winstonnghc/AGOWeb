@@ -1,6 +1,7 @@
 ---
 title: For Suppliers
 permalink: /out-portfolio/for-suppliers/
+description: How businesses and service providers can partner VITAL
 ---
 
 VITAL works with businesses and service providers to co-create and offer corporate services solutions to government agencies. Here are areas where your company can partner us.
