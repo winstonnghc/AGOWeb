@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-us/overview/
 ---
 
-<div id="figure-counter" >
+<div id="overview-counter" >
     <div id="vital">
         <div class="label-top"></div>1<div class="label-bottom" >VITAL</div>
     </div>
