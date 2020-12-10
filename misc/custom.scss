@@ -349,6 +349,21 @@ h1 + p + .home-video{
 
 .home-video {
     width: 100%; 
+    position: relative;
+}
+
+.home-video:before{
+  content: '';
+  padding-bottom: 56.3%;
+  display: block;
+}
+
+.home-video iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .navbar-item.navbar-item.navbar-item > div.selector{
