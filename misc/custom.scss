@@ -425,8 +425,11 @@ h1 + p + .home-video{
   }
 
   th{
-    background-color {{- site.colors.th-color -}}
-  }
+    background-color: {{- site.colors.th-color -}};
+    color: white !important;
+    font-size: 1.25rem;
+    font-weight: 400;
+ }
 }
 
 .partners{
