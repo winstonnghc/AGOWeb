@@ -8,8 +8,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>General
-</b>
+<h3>General</h3>
+
 <br>
 <br>
 <ol start="2">
@@ -18,8 +18,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Proprietary Rights
-</b>
+<h3>Proprietary Rights</h3>
+
 <br>
 <br>
 <ol start="3">
@@ -32,8 +32,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Privacy Statement
-</b>
+<h3>Privacy Statement</h3>
+
 <br>
 <br>
 <ol start="5">
@@ -42,8 +42,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Restrictions on Use of Contents
-</b>
+<h3>Restrictions on Use of Contents</h3>
+
 <br>
 <br>
 <ol start="6">
@@ -58,8 +58,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Disclaimer of Warranties and Liability
-</b>
+<h3>Disclaimer of Warranties and Liability</h3>
+
 <br>
 <br>
 <ol start="8">
@@ -76,8 +76,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Right of Access
-</b>
+<h3>Right of Access</h3>
+
 <br>
 <br>
 <ol start="10">
@@ -86,8 +86,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Links from this Site to other websites
-</b>
+<h3>Links from this Site to other websites</h3>
+
 <br>
 <br>
 <ol start="11">
@@ -100,8 +100,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Links to this Site from other websites
-</b>
+<h3>Links to this Site from other websites</h3>
+
 <br>
 <br>
 <ol start="13">
@@ -143,8 +143,8 @@ permalink: /terms-of-use/
   </li>
 </ol>
 <br>
-<b>Governing Law
-</b>
+<h3>Governing Law</h3>
+
 <br>
 <br>
 <ol start="20">
