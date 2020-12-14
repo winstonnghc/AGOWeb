@@ -481,3 +481,15 @@ h4{
       }
   }
 }
+
+.bp-container{
+  h1{
+    font-size: 2.722rem;
+    line-height: 1.4;
+    padding-bottom: 0.2em !important;
+  }
+
+  & > * > *{
+    align-self: flex-end;
+  } 
+}
