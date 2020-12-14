@@ -423,6 +423,10 @@ h1 + p + .home-video{
   tr:hover td{
     background: {{-site.colors.tr-hover-color -}}
   }
+
+  th{
+    background-color {{- site.colors.th-color -}}
+  }
 }
 
 .partners{
