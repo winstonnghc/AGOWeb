@@ -1,6 +1,6 @@
 ---
 title: Innovation And Improvement
-permalink: /out-portfolio/innovation-and-improvement/
+permalink: /our-portfolio/innovation-and-improvement/
 description: Key innovations and improvements that VITAL spearheaded
 ---
 

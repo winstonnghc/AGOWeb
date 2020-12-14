@@ -1,6 +1,6 @@
 ---
 title: Services
-permalink: /out-portfolio/services/
+permalink: /our-portfolio/services/
 description: Corporate services that VITAL provides to public agencies
 ---
 

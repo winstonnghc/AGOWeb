@@ -1,6 +1,6 @@
 ---
 title: For Suppliers
-permalink: /out-portfolio/for-suppliers/
+permalink: /our-portfolio/for-suppliers/
 description: How businesses and service providers can partner VITAL
 ---
 
