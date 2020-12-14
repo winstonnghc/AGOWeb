@@ -57,4 +57,3 @@ permalink: /privacy/
     </ol>
   </li>
 </ol>
-</div>
