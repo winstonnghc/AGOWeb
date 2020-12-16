@@ -29,7 +29,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 
 ### Videos
 
-<table class="tab_media_library">
+<table class="vital-table-1">
    <thead>
       <tr>
          <th class="item-date-header" style="width:20%;">Date</th>
