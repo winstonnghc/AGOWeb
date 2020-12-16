@@ -27,7 +27,7 @@ sections:
         title: Working in VITAL
         description: As part of VITAL, you will play a key role in delivering corporate services to public agencies and officers. You will also have the opportunity to work on projects to optimise processes and improve efficiency.  
         button: Find out more
-        url: /career/home/our-vitalites
+        url: /career/our-vitalites
         image: /images/home/working-in-vital.jpg
         alt: Working in VITAL
     - infobar:
