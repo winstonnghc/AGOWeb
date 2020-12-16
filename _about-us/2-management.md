@@ -15,27 +15,24 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>
-            <p>Dennis Lui&nbsp; (Mr)
-            </p>
+            Dennis Lui&nbsp; (Mr)
          </td>
          <td>
-            <p>Chief Executive
-            </p>
+            Chief Executive
          </td>
       </tr>
       <tr>
          <td>Yuen Sai Kuan (Mr)</td>
          <td>
-            <p>Deputy Chief Executive
-            </p>
+            Deputy Chief Executive
          </td>
       </tr>
       <tr>
          <td>
-            <p>Leong Siew Keong (Mr)<br></p>
+            Leong Siew Keong (Mr)<br>
          </td>
          <td>
-            <p><span style="background-color: transparent;">Chief Information Officer</span><br></p>
+            Chief Information Officer
          </td>
       </tr>
       <tr>
@@ -45,42 +42,42 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>
-            <p>To be updated</p>
+            To be updated
          </td>
          <td>
-            <p>Director, Corporate Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p>Lee Boon Kim (Ms)        </p>
-         </td>
-         <td>
-            <p>Director, HR &amp; Payroll (Agencies)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+            Director, Corporate Development
          </td>
       </tr>
       <tr>
          <td>
-            <p>Selvarani T. Pillai (Ms)         </p>
+            Lee Boon Kim (Ms)        
          </td>
          <td>
-            <p>Director, HR &amp; Payroll (MOE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p>Kavitha Subash (Ms)         </p>
-         </td>
-         <td>
-            <p>Director, Central Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+            Director, HR &amp; Payroll (Agencies)
          </td>
       </tr>
       <tr>
          <td>
-            <p>Adeline Ng (Ms)         </p>
+            Selvarani T. Pillai (Ms)         
          </td>
          <td>
-            <p>Director, Finance &amp; ACE Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+            Director, HR &amp; Payroll (MOE)
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Kavitha Subash (Ms)         
+         </td>
+         <td>
+            Director, Central Services
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Adeline Ng (Ms)         
+         </td>
+         <td>
+            Director, Finance &amp; ACE Services
          </td>
       </tr>
    </tbody>
