@@ -25,7 +25,7 @@ permalink: /terms-of-use/
 
 <ol start="5">
   <li>Click here to review this Site 
-    <a href="/vital/privacy-statement">Privacy Statement</a>.
+    <a href="/privacy-statement">Privacy Statement</a>.
   </li>
 </ol>
 <h3>Restrictions on Use of Contents</h3>
@@ -59,17 +59,17 @@ permalink: /terms-of-use/
 
 <h3>Links from this Site to other websites</h3>
 <ol start="11">
-  <li>This Site contains hyperlinks to websites which are not maintained by VITAL. VITAL is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.&nbsp;
+  <li>This Site contains hyperlinks to websites which are not maintained by VITAL. VITAL is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
   </li>
   <li>
-    <span style="background-color: initial;">Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall VITAL be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.&nbsp;
+    <span style="background-color: initial;">Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall VITAL be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
     </span>
   </li>
 </ol>
 <h3>Links to this Site from other websites</h3>
 
 <ol start="13">
-  <li>Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.&nbsp;
+  <li>Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
   </li>
   <li>
     Linking to the Homepage: You may link to the Homepage of this Site,  <a href="/contact-us">upon notifying VITAL</a> in writing.
