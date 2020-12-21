@@ -25,7 +25,7 @@ permalink: /terms-of-use/
 
 <ol start="5">
   <li>Click here to review this Site 
-    <a href="/privacy-statement">Privacy Statement</a>.
+    <a href="/privacy">Privacy Statement</a>.
   </li>
 </ol>
 <h3>Restrictions on Use of Contents</h3>
