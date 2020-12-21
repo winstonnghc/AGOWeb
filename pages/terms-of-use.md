@@ -31,7 +31,7 @@ permalink: /terms-of-use/
 <h3>Restrictions on Use of Contents</h3>
 <ol start="6">
   <li>Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of VITAL. To use any parts of the Contents of this Site, the user 
-    <a href="/vital/contact-us">must seek permission</a>&nbsp; in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. VITAL reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.&nbsp;
+    <a href="/contact-us">must seek permission</a>&nbsp; in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. VITAL reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.&nbsp;
   </li>
   <li>
     Modification of any of the Contents or use of the Contents for any other purpose will be a violation of VITAL's copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of VITAL.&nbsp;
@@ -72,11 +72,11 @@ permalink: /terms-of-use/
   <li>Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.&nbsp;
   </li>
   <li>
-    Linking to the Homepage: You may link to the Homepage of this Site,  <a href="/vital/contact-us">upon notifying VITAL</a> in writing.
+    Linking to the Homepage: You may link to the Homepage of this Site,  <a href="/contact-us">upon notifying VITAL</a> in writing.
     
   </li>
   <li>
-      Hyperlinking to an internal page of this Site: You must make a <a href="/vital/contact-us">specific request</a> for, and secure permission from VITAL prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. VITAL reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
+      Hyperlinking to an internal page of this Site: You must make a <a href="/contact-us">specific request</a> for, and secure permission from VITAL prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. VITAL reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
   </li>
   <li>
       Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.
