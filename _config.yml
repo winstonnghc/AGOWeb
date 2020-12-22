@@ -26,6 +26,9 @@ collections:
     output: true
   career:
     output: true
+  new-folder:
+    permalink: '/:collection/:path/:title'
+    output: true
 description: >-
   VITAL is the shared services arm of the Singapore Government. We aggregate
   common corporate services to derive economies of scale to achieve efficiency
