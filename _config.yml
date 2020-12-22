@@ -1,9 +1,7 @@
 title: VITAL SHARED SERVICES
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ''
 favicon: /images/general/favicon.ico
 agency-logo: /images/general/logo.png
-
-# Site colors
 colors:
   primary-color: '#a91932'
   secondary-color: '#a91932'
@@ -21,8 +19,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-
-
 collections:
   about-us:
     output: true
@@ -30,24 +26,37 @@ collections:
     output: true
   career:
     output: true
-
-description: VITAL is the shared services arm of the Singapore Government. We aggregate common corporate services to derive economies of scale to achieve efficiency and effectiveness.
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+  new-folder:
+    permalink: '/:collection/:path/:title'
+    output: true
+description: >-
+  VITAL is the shared services arm of the Singapore Government. We aggregate
+  common corporate services to derive economies of scale to achieve efficiency
+  and effectiveness.
 permalink: none
-baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+baseurl: ''
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
