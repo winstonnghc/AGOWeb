@@ -47,3 +47,7 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
    </tbody>
 </table>
+
+
+To view/ open the resources in this page, you will need to download the Adobe Acrobat Reader software. 
+Please follow this link to download Adobe’s free <a href="http://get.adobe.com/reader/" target="_blank" style="font-size: 18px;">Acrobat Reader</a> software. (Windows and Mac)
