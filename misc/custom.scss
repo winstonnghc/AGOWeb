@@ -500,3 +500,7 @@ h4{
     align-self: flex-end;
   } 
 }
+
+ol[type="a"]{
+  list-style-type: lower-alpha !important;
+}
