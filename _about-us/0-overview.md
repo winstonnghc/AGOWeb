@@ -33,11 +33,16 @@ description: VITAL serves more than 90,000 public officers from over 100 agencie
     <div class="block">
         <img src="/images/overview/our-mission.jpg" alt="Our Mission" />
         <h3>Our Mission</h3>
-        <p>A leading provider of corporate services and solutions for public service agencies.</p>
+        <p>We deliver quality corporate services and create value as a trusted service partner.</p>
     </div>
     <div class="block">
         <img src="/images/overview/core-values.jpg" alt="Our Core Values" />
         <h3>Our Core Values</h3>
-        <p>A leading provider of corporate services and solutions for public service agencies.</p>
+        <ul>
+            <li>Passion for Excellence</li>
+            <li>Professionalism with Integrity</li>
+            <li>Caring Team</li>
+            <li>Catalyst for Change</li>
+        </ul>
     </div>
 </div>
