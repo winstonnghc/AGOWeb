@@ -15,21 +15,21 @@ Covering a wide range of goods and services, these contracts allow government ag
 VITAL is one of the lead agencies for public sector DA and manages the following DA contracts:
 
 <ul>
-    <li>AV Equipment and Accessories&nbsp;<br></li>
-    <li>Electronics &amp; Electrical Appliances&nbsp;<br></li>
-    <li>Warrants of Arrest Execution&nbsp;<br></li>
-    <li>Temporary and Permanent Employee&nbsp;<br></li>
-    <li>Postage Paid Envelopes&nbsp;<br></li>
-    <li>Meeting/ Event Spaces and Related Services&nbsp;<br></li>
-    <li>Relocation Management Services&nbsp;<br></li>
-    <li>Supply of Stationery&nbsp;<br></li>
-    <li>Courier Services&nbsp;<br></li>
-    <li>Travel Management Services&nbsp;<br></li>
-    <li>Travel Insurance&nbsp;<br></li>
-    <li>Corporate Card&nbsp;<br></li>
-    <li>Taxi / Private Hire Car Corporate Charge Services&nbsp;<br></li>
-    <li>Hotel Corporate Rate&nbsp;<br></li>
-    <li>F&amp;B: Catering Services&nbsp;<br></li>
+    <li>AV Equipment and Accessories&nbsp;</li>
+    <li>Electronics &amp; Electrical Appliances&nbsp;</li>
+    <li>Warrants of Arrest Execution&nbsp;</li>
+    <li>Temporary and Permanent Employee&nbsp;</li>
+    <li>Postage Paid Envelopes&nbsp;</li>
+    <li>Meeting/ Event Spaces and Related Services&nbsp;</li>
+    <li>Relocation Management Services&nbsp;</li>
+    <li>Supply of Stationery&nbsp;</li>
+    <li>Courier Services&nbsp;</li>
+    <li>Travel Management Services&nbsp;</li>
+    <li>Travel Insurance&nbsp;</li>
+    <li>Corporate Card&nbsp;</li>
+    <li>Taxi / Private Hire Car Corporate Charge Services&nbsp;</li>
+    <li>Hotel Corporate Rate&nbsp;</li>
+    <li>F&amp;B: Catering Services&nbsp;</li>
 </ul>
 
 We are constantly on the lookout for new opportunities to aggregate demand across the public sector, and welcome suppliers as well as service providers who wish to offer their goods and services.
@@ -43,11 +43,11 @@ By coming on board the Learning Hub as a training provider, you can extend your 
 
 Interested training providers who meet the following criteria may apply: 
 <ul>
-   <li>At least 5 years of establishment&nbsp;<br></li>
-   <li>Track record of courses delivered to large organisations with more than 200 staff&nbsp;<br></li>
-   <li>Track record of qualified trainers with qualification in training delivery or teaching&nbsp;<br></li>
-   <li>Registered business entity with ACRA&nbsp;<br></li>
-   <li>Registered on Vendors@Gov&nbsp;<br></li>
+   <li>At least 5 years of establishment&nbsp;</li>
+   <li>Track record of courses delivered to large organisations with more than 200 staff&nbsp;</li>
+   <li>Track record of qualified trainers with qualification in training delivery or teaching&nbsp;</li>
+   <li>Registered business entity with ACRA&nbsp;</li>
+   <li>Registered on Vendors@Gov&nbsp;</li>
 </ul>
 
 We welcome training providers who are interested to list their training courses on the Learning Hub to touch base with us. For more details, download <a href="/media/Application for Training Providers to HRMS 20082019.pdf" target="_blank" >application form</a> (PDF, 523kb) for more details on the application and the supporting documents required.

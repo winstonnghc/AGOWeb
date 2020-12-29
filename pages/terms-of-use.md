@@ -17,7 +17,7 @@ permalink: /terms-of-use/
   </li>
   <li>
     The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by VITAL.&nbsp;
-    <br>
+    
   </li>
 </ol>
 

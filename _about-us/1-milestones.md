@@ -9,7 +9,7 @@ description: Key events that took place since VITAL’s formation
   <tbody>
     <tr>
       <th>Year</th>
-      <th><br></th>
+      <th></th>
     </tr>
     <tr>
       <td>2006
@@ -28,9 +28,7 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-          <li>Attained ISO 9001:2000 Certification&nbsp;
-            <br>
-          </li>
+          <li>Attained ISO 9001:2000 Certification</li>
           <li>Set up one-stop Travel Agent Services
           </li>
         </ul>
@@ -41,9 +39,7 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-          <li>Set up Asset Accounting Services
-            <br>
-          </li>
+          <li>Set up Asset Accounting Services</li>
           <li>Set up Service Management Team and Call Centre Helpdesk
           </li>
         </ul>
@@ -52,7 +48,7 @@ description: Key events that took place since VITAL’s formation
     <tr>
       <td>2010
       </td>
-      <td>Launched Corporate Card Programme&nbsp;
+      <td>Launched Corporate Card Programme
       </td>
     </tr>
     <tr>
@@ -60,49 +56,35 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-          <li>Set up Procurement Unit&nbsp;
-            <br>
-          </li>
-          <li>VITAL.org renamed VITAL
-          </li>
-          <li>Set up Alliance for Corporate Excellence (ACE) Services
-          </li>
+          <li>Set up Procurement Unit</li>
+          <li>VITAL.org renamed VITAL</li>
+          <li>Set up Alliance for Corporate Excellence (ACE) Services</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2013
       </td>
-      <td>Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications
-        <br>
-      </td>
+      <td>Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</td>
     </tr>
     <tr>
       <td>2015
       </td>
-      <td>Implemented a new Customer Relationship Management system, VOICES
-        <br>
-      </td>
+      <td>Implemented a new Customer Relationship Management system, VOICES</td>
     </tr>
     <tr>
-      <td>2016
-      </td>
-      <td>VITAL celebrated 10th Anniversary
-        <br>
-      </td>
+      <td>2016</td>
+      <td>VITAL celebrated 10th Anniversary</td>
     </tr>
     <tr>
-      <td>2017
-      </td>
+      <td>2017</td>
       <td>Set up Electronic Personnel File services
       </td>
     </tr>
     <tr>
       <td>2018
       </td>
-      <td>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers’ taxi and private car hire
-        <br>
-      </td>
+      <td>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers’ taxi and private car hire</td>
     </tr>
   </tbody>
 </table>

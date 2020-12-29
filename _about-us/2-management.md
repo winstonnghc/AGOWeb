@@ -29,7 +29,7 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>
-            Leong Siew Keong (Mr)<br>
+            Leong Siew Keong (Mr)
          </td>
          <td>
             Chief Information Officer

@@ -22,7 +22,9 @@ description: VITAL serves more than 90,000 public officers from over 100 agencie
     </div>
 </div>
 
-<p>VITAL is the shared services arm of the Singapore public service. We are a department established under the Ministry of Finance to aggregate common corporate services within the public sector to leverage economies of scale, improve efficiency and enhance service quality.<br><br>Today, we serve more than 90,000 public officers over a wide range of corporate and administrative processes in finance, human resource and procurement.</p>
+VITAL is the shared services arm of the Singapore public service. We are a department established under the Ministry of Finance to aggregate common corporate services within the public sector to leverage economies of scale, improve efficiency and enhance service quality.
+
+Today, we serve more than 90,000 public officers over a wide range of corporate and administrative processes in finance, human resource and procurement.
 
 <div class="vision-mission-values">
     <div class="block">
