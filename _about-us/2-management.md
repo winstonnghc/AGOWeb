@@ -37,12 +37,12 @@ description: VITAL’s management team
       </tr>
       <tr>
          <td>Tan Wearn Haw (Mr)</td>
-         <td>Director, Service, Innovation &amp; Compliance (Designate)        
+         <td>Director, Service, Innovation &amp; Compliance      
          </td>
       </tr>
       <tr>
          <td>
-            To be updated
+            Yang Wen (Ms)
          </td>
          <td>
             Director, Corporate Development
