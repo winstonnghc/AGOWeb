@@ -80,5 +80,13 @@ description: VITAL’s management team
             Director, Finance &amp; ACE Services
          </td>
       </tr>
+      <tr>
+         <td>
+            Chua Mui Yim (Ms)
+         </td>
+         <td>
+            Director, Transformation
+         </td>
+      </tr>		 
    </tbody>
 </table>
