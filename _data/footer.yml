@@ -1,10 +1,18 @@
 contact_us: /contact-us/
-show_reach: true
-feedback: 
+show_reach: 
+feedback: /feedback/
 faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+copyright_agency: VITAL GOVERNMENT OF SINGAPORE
+navlinks:
+  - title: About Us
+    collection: about-us
+  - title: Our Portfolio
+    collection: our-portfolio
+  - title: Career
+    collection: career
+links:
+  - title: Best Viewed Browsers
+    url: /best-viewed-browsers
+  - title: Useful Links
+    url: /useful-links
+
