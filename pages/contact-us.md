@@ -10,6 +10,9 @@ contacts:
   - title: Recruitment Enquiries
     content:
     - other: <p><span>E-mail:</span> <a href="mailto:vital_recruit@vital.gov.sg" target="">VITAL Recruit</a></p>
+  - title: QSM Enquiries
+    content:
+    - other: <p><span>E-mail:</span> <a href="mailto:vital-QSM@vital.gov.sg" target="">VITAL QSM</a></p>
 locations: 
   - title: Address
     address:
