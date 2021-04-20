@@ -19,13 +19,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  about-us:
-    output: true
-  our-portfolio:
-    output: true
-  career:
-    output: true
 description: >-
   VITAL is the shared services arm of the Singapore Government. We aggregate
   common corporate services to derive economies of scale to achieve efficiency
@@ -57,8 +50,11 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://mof-vital-staging.netlify.app
+prod: https://mof-vital-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
