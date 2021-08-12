@@ -26,7 +26,7 @@ description: Depository of VITAL’s publications, videos, and media materials
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/media/10yearsofbeingvital.pdf" target="_blank" >VITAL 10 Commemorative Book (PDF, 8mb)</a>
+            <a href="/media/roboticsshift.pdf" target="_blank" >VITAL 10 Commemorative Book (PDF, 8mb)</a>
          </td>
       </tr>
    </tbody>
