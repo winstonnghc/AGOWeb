@@ -89,8 +89,8 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-          <li> Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)
-Launched RPA trial for unattended bot and bot library </li>
+					<li> Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)</li>
+<li>Launched RPA trial for unattended bot and bot library </li>
           <li> SSON Asia Impact Awards 2019 - Business Transformation Impact Award (Honourable Mention – Top 5)          
 </li>
         </ul>
@@ -101,8 +101,7 @@ Launched RPA trial for unattended bot and bot library </li>
       </td>
       <td>
         <ul>
-          <li> Migrated and rolled out Digital Workplace - Asset Management System (DWP-AMS)
-Launched RPA trial for unattended bot and bot library </li>
+          <li> Worked together with the central team (PSD, AGD, GovTech) and Accenture on Project Cumulus</li>
           <li> SSON Asia Impact Awards 2020 -Process Improvement & Value Creation Impact Award
 </li>
         </ul>
