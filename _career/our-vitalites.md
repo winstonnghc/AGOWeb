@@ -3,7 +3,6 @@ title: Our VITALites
 permalink: /career/our-vitalites/
 description: Let our folks tell you why VITAL is a great workplace!
 ---
-
 <div class="content-box img-content">
     <div class="img">
         <img src="/images/career/Muntaj-Begum.png" alt="Muntaj Begum, Senior Executive, Payroll and Claims" />
@@ -18,7 +17,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box content-img">
     <div class="img">
-        <img src="/images/career/Tan-Hwee-Ching.png" alt="Tan Hwee Ching, Senior Account Manager, Service Partner Relations" />
+        <img src="/images/career/Tan-Hwee-Ching.png" alt="Tan Hwee Ching, Assistant Director, Service Partner Relations" />
     </div>
     <div class="des">
         <h4>Tan Hwee Ching, Senior Account Manager, Service Partner Relations</h4>
@@ -30,7 +29,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box img-content">
     <div class="img">
-        <img src="/images/career/Diana-Lim.png" alt="Diana Lim, Assistant Director, Travel Management" />
+        <img src="/images/career/Diana-Lim.png" alt="Diana Lim, Assistant Director, Credit Management Services" />
     </div>
     <div class="des">
         <h4>Diana Lim, Assistant Director, Travel Management</h4>
