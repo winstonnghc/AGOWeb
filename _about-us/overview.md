@@ -47,6 +47,8 @@ Today, we serve more than 90,000 public officers over a wide range of corporate 
         </ul>
     </div>
     <div class="block">
+		</div>
+    <div class="block">
         <h3> Value Proposition</h3>
         <p> VITAL is in a unique position to support agencies on corporate shared services compared to commercial service providers. Our unique value proposition are:</p>
 <table class="vital-table-1">
