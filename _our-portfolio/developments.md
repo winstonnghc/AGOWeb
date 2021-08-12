@@ -31,3 +31,11 @@ As the Central Agency for Corporate Services supporting Ministries, Statutory Bo
 In preparation for the transition, we have been partnering ministries and agencies in their change journey through a series of communication and engagement sessions to share key changes in processes, in addition to end-to-end support for a smooth and streamlined transition.
 
 With our experiences and institutional knowledge, we can better understand, anticipate and offer suggestions to system owners to agencies’ challenges and concerns to harmonize processes. With the knowledge gathered in workshops, training, tests, and the eventual roll-out, we are also able to render effective support to our partners after the system go-live and aid the transition of their legacy systems seamlessly to the new environment.
+
+## Robotics Process Automation
+
+In line with Singapore Government’s Smart Nation initiative, VITAL has been actively pursuing digitalisation of our existing operations, and adoption of Robotic Process Automation (RPA) was the natural next step towards transforming into a digitally-enabled Shared Services Centre.
+
+VITAL was an early adopter of RPA in the Public Service in 2017. We started by piloting the use of RPA across HR, Payroll, Finance and Procurement processes and subsequently scaling up RPA adoption within VITAL including trial on unattended robots. Recognising the importance of nurturing potential ops-tech talents with job-relevant digital skills (in automation), VITAL also equipped our officers with RPA skills and created portals to share RPA resources and best practices to propagate adoption of RPA within VITAL and across the Public Service. 
+
+In 2020, VITAL was appointed as Whole of Government Robotics & Automation (R&A) lead agency for corporate and administrative services to experiment and scale suitable and promising R&A solutions that could be helpful for Singapore’s Public Service. This is an important endorsement of VITAL’s essential role as Singapore Government Shared Services Centre and capabilities in R&A for corporate and administrative services in Public Service.
