@@ -8,41 +8,41 @@ description: Depository of VITAL’s publications, videos, and media materials
 <table class="vital-table-1">
    <thead>
       <tr>
-         <th class="item-date-header" style="width:20%;">Date</th>
+         <th style="width:20%;" class="item-date-header">Date</th>
          <th class="item-title-header">Title</th>
       </tr>
    </thead>
    <tbody>
-      <tr class="tr_publications" style="display: table-row;">
+      <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             13 Apr 2018									
          </td>
          <td class="item-title">
-            <a href="/media/10yearsofbeingvital.pdf" target="_blank" >VITAL 10 Commemorative Book (PDF, 8mb)</a>
+            <a href="/media/10yearsofbeingvital.pdf">VITAL 10 Commemorative Book (PDF, 8mb)</a>
          </td>
       </tr>
-		       <tr class="tr_publications" style="display: table-row;">
+		       <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/files/roboticsshift.pdf" target="_blank" >[Example Filename](/files/roboticsshift.pdf)</a>
+            <a href="/files/roboticsshift.pdf">Meet the Team Leading SG Govt Robotics Shift</a>
          </td>
       </tr>
-		       <tr class="tr_publications" style="display: table-row;">
+		       <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             05 Jul 2021									
          </td>
          <td class="item-title">
-            <a href="/media/15thanniversaryspeech.pdf" target="_blank" >VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
+            <a href="/files/15thanniversaryspeech.pdf">VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
          </td>
       </tr>
-		       <tr class="tr_publications" style="display: table-row;">
+		       <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/media/sgpublicsectorai.pdf" target="_blank" >How AI and robots will change Singapore’s public sector (PDF, 0.3mb)</a>
+            <a href="/files/sgpublicsectorai.pdf">How AI and robots will change Singapore’s public sector (PDF, 0.3mb)</a>
          </td>
       </tr>
    </tbody>
@@ -54,7 +54,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 <table class="vital-table-1">
    <thead>
       <tr>
-         <th class="item-date-header" style="width:20%;">Date</th>
+         <th style="width:20%;" class="item-date-header">Date</th>
          <th class="item-title-header">Title</th>
       </tr>
    </thead>
@@ -72,4 +72,4 @@ description: Depository of VITAL’s publications, videos, and media materials
 
 
 To view / open the resources in this page, you will need to download the Adobe Acrobat Reader software. 
-Please follow this link to download Adobe’s free <a href="http://get.adobe.com/reader/" target="_blank" style="font-size: 18px;">Acrobat Reader</a> software. (Windows and Mac)
+Please follow this link to download Adobe’s free <a style="font-size: 18px;" href="http://get.adobe.com/reader/">Acrobat Reader</a> software. (Windows and Mac)
