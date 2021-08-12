@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - framework-and-values.md
       - milestones.md
       - management.md
       - partners.md
