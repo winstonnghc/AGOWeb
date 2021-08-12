@@ -3,7 +3,6 @@ title: Overview
 permalink: /about-us/overview/
 description: VITAL serves more than 90,000 public officers from over 100 agencies.
 ---
-
 <div id="overview-counter" >
     <div id="vital">
         <div class="label-top"></div>
@@ -12,12 +11,12 @@ description: VITAL serves more than 90,000 public officers from over 100 agencie
     </div>
     <div id="serving">
         <div class="label-top">SERVING</div>
-        <div class="counter">90&nbsp;K</div>
+        <div class="counter">100&nbsp;K</div>
         <div class="label-bottom" >PUBLIC OFFICERS</div>
     </div>
     <div id="agencies">
         <div class="label-top">OVER</div>
-        <div class="counter">100</div>
+        <div class="counter">80</div>
         <div class="label-bottom" >AGENCIES</div>
     </div>
 </div>
