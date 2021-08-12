@@ -65,15 +65,34 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</td>
     </tr>
+</tr>
     <tr>
       <td>2015
       </td>
-      <td>Implemented a new Customer Relationship Management system, VOICES</td>
+      <td>
+        <ul>
+          <li> Implemented a new Customer Relationship Management system, VOICES</li>
+          <li> 18th Asia Pacific SSON Excellence Awards – Best Process Innovation (Honourable Mention))</li>
+          <li> 18th Asia Pacific SSON Excellence Awards – Excellence in Customer Service (Honourable Mention)
+</li>
+        </ul>
+      </td>
     </tr>
+
     <tr>
-      <td>2016</td>
-      <td>VITAL celebrated 10th Anniversary</td>
+      <td>2016
+      </td>
+      <td>
+        <ul>
+          <li> SSON Excellence Asia Awards 2016 – Best Process Innovation (Bronze)</li>
+          <li> SSON Excellence Asia Awards 2016 – Excellence in Transformation (Honourable Mention – Top 5)</li>
+          <li> United Arab Emirates Government Shared Services Conference – Best Innovation Adoption Award
+</li>
+        </ul>
+      </td>
     </tr>
+
+
     <tr>
       <td>2017</td>
       <td>Set up Electronic Personnel File services
