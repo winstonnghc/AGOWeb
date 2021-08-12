@@ -4,6 +4,44 @@ permalink: /about-us/permalink
 ---
 <h3>Central Agency for Shared Services</h3>
 VITAL has been appointed as the Central Agency for Corporate Services for the Public Service to manage and transform corporate services delivery for all government agencies. Here is our shared services framework.
+<p></p>
+<table class="vital-table-1">
+  <tbody>
+<tr>
+      <td> &nbsp; &nbsp; &nbsp;
+      </td>
+      <td> Where we are
+      </td>
+      <td> Where we aspire to be
+      </td>
+    </tr>
+<tr>
+      <td> Position
+      </td>
+      <td> Provision of Shared Services to Ministries and Organs of State
+      </td>
+      <td> Central Agency for Shared Services entrusted with the management and transformation of corporate services for WoG, including Statutory Boards
+      </td>
+    </tr>
+<tr>
+      <td> Process
+      </td>
+      <td> Design and execute processes to deliver corporate services subject to prevailing policies
+      </td>
+      <td> Partner with functional leaders to strengthen policy-operations-technology integration to innovate, leverage technology and adopt a data-driven approach to digitalise end-to-end processes and enhance process effectiveness and efficiency
+      </td>
+</tr>
+<tr>
+      <td> People
+      </td>
+      <td> Operationally competent staff focused on the delivery of accurate and on-time task completion to fulfil the agreed service level agreement
+      </td>
+      <td> Corporate Shared Services Professionals who are able to leverage RPA, Data Analytics and Design Thinking to create value for partner agencies
+      </td>
+    </tr>
+</tbody>
+</table>
+
 
 <h3>Value Proposition</h3>
 VITAL is in a unique position to support agencies on corporate shared services compared to commercial service providers. Our unique value proposition are:
