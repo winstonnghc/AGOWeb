@@ -26,7 +26,23 @@ description: Depository of VITAL’s publications, videos, and media materials
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/media/roboticsshift.pdf" target="_blank" >VITAL 10 Commemorative Book (PDF, 8mb)</a>
+            <a href="/media/roboticsshift.pdf" target="_blank" > Meet the Team Leading SG Govt Robotics Shift (PDF, 1mb)</a>
+         </td>
+      </tr>
+		       <tr class="tr_publications" style="display: table-row;">
+         <td class="item-date">
+            05 Jul 2021									
+         </td>
+         <td class="item-title">
+            <a href="/media/15thanniversaryspeech.pdf" target="_blank" >VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
+         </td>
+      </tr>
+		       <tr class="tr_publications" style="display: table-row;">
+         <td class="item-date">
+            20 Apr 2021									
+         </td>
+         <td class="item-title">
+            <a href="/media/sgpublicsectorai.pdf" target="_blank" >How AI and robots will change Singapore’s public sector (PDF, 0.3mb)</a>
          </td>
       </tr>
    </tbody>
