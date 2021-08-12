@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - services.md
-      - innovation-and-improvement.md
+      - developments.md
       - for-suppliers.md
