@@ -46,7 +46,6 @@ Today, we serve more than 90,000 public officers over a wide range of corporate 
             <li>Catalyst for Change</li>
         </ul>
     </div>
-</div>
 <h3>Central Agency for Shared Services</h3>
 VITAL has been appointed as the Central Agency for Corporate Services for the Public Service to manage and transform corporate services delivery for all government agencies. Here is our shared services framework.
 <p></p>
@@ -168,3 +167,4 @@ VITAL is in a unique position to support agencies on corporate shared services c
     </tr>
 </tbody>
 </table>
+	</div>
