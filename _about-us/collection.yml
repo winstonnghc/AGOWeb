@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - central-agency-for-shared-services.md
+      - framework-and-values.md
       - milestones.md
       - management.md
       - partners.md
