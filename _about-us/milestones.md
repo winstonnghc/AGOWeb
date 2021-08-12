@@ -80,9 +80,18 @@ description: Key events that took place since VITAL’s formation
       </td>
     </tr>
     <tr>
+</tr>
+    <tr>
       <td>2018
       </td>
-      <td>Launched virtual CabCharge and Grab-for-Work mobile apps for public officers’ taxi and private car hire</td>
+      <td>
+        <ul>
+          <li> Launched virtual CabCharge and Grab-for-Work mobile apps for public officers’ taxi and private car hire 
+</li>
+          <li> United Arab Emirates Government Shared Services Conference – Best Innovation Adoption Award
+</li>
+        </ul>
+      </td>
     </tr>
 		    <tr>
       <td>2019
@@ -102,7 +111,7 @@ description: Key events that took place since VITAL’s formation
       <td>
         <ul>
           <li> Worked together with the central team (PSD, AGD, GovTech) and Accenture on Project Cumulus</li>
-          <li> SSON Asia Impact Awards 2020 -Process Improvement & Value Creation Impact Award
+          <li> SSON Asia Impact Awards 2020 - Process Improvement & Value Creation Impact Award
 </li>
         </ul>
       </td>
