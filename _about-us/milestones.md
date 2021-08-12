@@ -54,18 +54,35 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-          <li>Set up Procurement Unit</li>
-          <li>VITAL.org renamed VITAL</li>
-          <li>Set up Alliance for Corporate Excellence (ACE) Services</li>
+<li> 14th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in People and Communications (Winner)</li>
+<li> 14th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in Customer Service (Honourable Mention)</li>
+<li> 2nd Pacific-Asia Tourism Association’s Productivity Challenge – Other Services Category for VITAL Centralised Travel Insurance Programme
+</li>
+        </ul>
+      </td>
+    </tr>
+		<tr>
+      <td>2012
+      </td>
+      <td> 15th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in Culture Creation (Honourable Mention)      
+</td>
+    </tr>
+<tr>
+      <td>2013
+      </td>
+      <td>
+        <ul>
+<li> Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</li>
+<li> 16th Asia Pacific Shared Services & Outsourcing Excellence Awards – Excellence Award in Talent Management & Leadership Development (First Runner-Up)
+</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2013
+      <td>2014
       </td>
-      <td>Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</td>
+      <td> 17th Asia Pacific SSON Excellence Awards – Excellence in Creating a Customer-Centric Organisation (Runner-Up)</td>
     </tr>
-</tr>
     <tr>
       <td>2015
       </td>
@@ -78,7 +95,6 @@ description: Key events that took place since VITAL’s formation
         </ul>
       </td>
     </tr>
-
     <tr>
       <td>2016
       </td>
@@ -91,8 +107,6 @@ description: Key events that took place since VITAL’s formation
         </ul>
       </td>
     </tr>
-
-
     <tr>
       <td>2017</td>
       <td>Set up Electronic Personnel File services
