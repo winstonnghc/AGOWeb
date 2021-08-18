@@ -54,8 +54,8 @@ description: Key events that took place since VITAL’s formation
       </td>
       <td>
         <ul>
-<li> 14th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in People and Communications (Winner)</li>
-<li> 14th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in Customer Service (Honourable Mention)</li>
+<li> 14th Annual Asian Shared Services &amp; Outsourcing Excellence Awards – Excellence in People and Communications (Winner)</li>
+<li> 14th Annual Asian Shared Services &amp; Outsourcing Excellence Awards – Excellence in Customer Service (Honourable Mention)</li>
 <li> 2nd Pacific-Asia Tourism Association’s Productivity Challenge – Other Services Category for VITAL Centralised Travel Insurance Programme
 </li>
         </ul>
@@ -64,7 +64,7 @@ description: Key events that took place since VITAL’s formation
 		<tr>
       <td>2012
       </td>
-      <td> 15th Annual Asian Shared Services & Outsourcing Excellence Awards – Excellence in Culture Creation (Honourable Mention)      
+      <td> 15th Annual Asian Shared Services &amp; Outsourcing Excellence Awards – Excellence in Culture Creation (Honourable Mention)      
 </td>
     </tr>
 <tr>
@@ -73,7 +73,7 @@ description: Key events that took place since VITAL’s formation
       <td>
         <ul>
 <li> Attained the Singapore Quality Class, Singapore Innovation Class, Singapore Service Class and People Developer Business Excellence Certifications</li>
-<li> 16th Asia Pacific Shared Services & Outsourcing Excellence Awards – Excellence Award in Talent Management & Leadership Development (First Runner-Up)
+<li> 16th Asia Pacific Shared Services &amp; Outsourcing Excellence Awards – Excellence Award in Talent Management &amp; Leadership Development (First Runner-Up)
 </li>
         </ul>
       </td>
@@ -89,7 +89,7 @@ description: Key events that took place since VITAL’s formation
       <td>
         <ul>
           <li> Implemented a new Customer Relationship Management system, VOICES</li>
-          <li> 18th Asia Pacific SSON Excellence Awards – Best Process Innovation (Honourable Mention))</li>
+          <li> 18th Asia Pacific SSON Excellence Awards – Best Process Innovation (Honourable Mention)</li>
           <li> 18th Asia Pacific SSON Excellence Awards – Excellence in Customer Service (Honourable Mention)
 </li>
         </ul>
@@ -144,7 +144,7 @@ description: Key events that took place since VITAL’s formation
       <td>
         <ul>
           <li> Worked together with the central team (PSD, AGD, GovTech) and Accenture on Project Cumulus</li>
-          <li> SSON Asia Impact Awards 2020 - Process Improvement & Value Creation Impact Award
+          <li> SSON Asia Impact Awards 2020 - Process Improvement &amp; Value Creation Impact Award
 </li>
         </ul>
       </td>
