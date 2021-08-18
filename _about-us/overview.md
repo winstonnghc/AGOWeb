@@ -27,17 +27,17 @@ Today, we serve more than 90,000 public officers over a wide range of corporate 
 
 <div class="vision-mission-values">
     <div class="block">
-        <img alt="Our Vision" src="/images/overview/our-vision.jpg">
+        <img src="/images/overview/our-vision.jpg" alt="Our Vision">
         <h3>Our Vision</h3>
         <p>A leading provider of corporate services and solutions for public service agencies.</p>
     </div>
     <div class="block">
-        <img alt="Our Mission" src="/images/overview/our-mission.jpg">
+        <img src="/images/overview/our-mission.jpg" alt="Our Mission">
         <h3>Our Mission</h3>
         <p>We deliver quality corporate services and create value as a trusted service partner.</p>
     </div>
     <div class="block">
-        <img alt="Our Core Values" src="/images/overview/core-values.jpg">
+        <img src="/images/overview/core-values.jpg" alt="Our Core Values">
         <h3>Our Core Values</h3>
         <ul>
             <li>Passion for Excellence</li>
