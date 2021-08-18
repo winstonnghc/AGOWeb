@@ -5,7 +5,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 ---
 <div class="content-box img-content">
     <div class="img">
-        <img alt="Muntaj Begum, Senior Executive, Payroll and Claims" src="/images/career/Muntaj-Begum.png">
+        <img src="/images/career/Muntaj-Begum.png" alt="Muntaj Begum, Senior Executive, Payroll and Claims">
     </div>
     <div class="des">
         <h4>Muntaj Begum, Senior Executive, Payroll and Claims</h4>
@@ -17,7 +17,7 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box content-img">
     <div class="img">
-        <img alt="Tan Hwee Ching, Assistant Director, Service Partner Relations" src="/images/career/Tan-Hwee-Ching.png">
+        <img src="/images/career/Tan-Hwee-Ching.png" alt="Tan Hwee Ching, Assistant Director, Service Partner Relations">
     </div>
     <div class="des">
         <h4>Tan Hwee Ching, Assistant Director, Service Partner Relations</h4>
@@ -29,10 +29,10 @@ description: Let our folks tell you why VITAL is a great workplace!
 
 <div class="content-box img-content">
     <div class="img">
-        <img alt="Diana Lim, Assistant Director, Credit Management Services" src="/images/career/Diana-Lim.png">
+        <img src="/images/career/Diana-Lim.png" alt="Diana Lim, Assistant Director, Credit Management Services">
     </div>
     <div class="des">
-        <h4>Diana Lim, Assistant Director, Travel Management</h4>
+        <h4>Diana Lim, Assistant Director, Credit Management</h4>
         <p>Versatility is one word to describe my experience at VITAL. Through my 10 years at VITAL, I have handled diverse duties, due to the growing requirements of servicing numerous government agencies, and I learned so much. Even when faced with challenges, I was glad to have laughed off the stresses with the team and experienced very heart-warming moments throughout.</p>
         <p>There is no limitation to growth as bosses are supportive and team-mates cross-share knowledge, operating in a way that places collective goals ahead of individual glory.</p>
     </div>
