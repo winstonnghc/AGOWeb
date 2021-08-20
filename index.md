@@ -40,7 +40,7 @@ sections:
       title: VITAL Corporate Video
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
-        src="https://www.youtube.com/embed/ctwGWSLHzAU?rel=0&amp;showinfo=0"
+        src="https://www.youtube.com/embed/G7HMihYT75w?rel=0&amp;showinfo=0"
         allow="encrypted-media" allowfullscreen=""
         contenteditable="false"></iframe></div>
 ---
