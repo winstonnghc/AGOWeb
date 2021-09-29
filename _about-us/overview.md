@@ -10,7 +10,7 @@ description: VITAL serves more than 90,000 public officers from over 100 agencie
         <div class="label-bottom">VITAL</div>
     </div>
     <div id="serving">
-        <div class="label-top">SERVING</div>
+        <div class="label-top">SERVING MORE THAN</div>
         <div class="counter">100&nbsp;K</div>
         <div class="label-bottom">PUBLIC OFFICERS</div>
     </div>
