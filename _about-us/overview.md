@@ -21,9 +21,9 @@ description: VITAL serves more than 100,000 public officers from over 100 agenci
     </div>
 </div>
 
-VITAL is the shared services arm of the Singapore public service. We are a department established under the Ministry of Finance to aggregate common corporate services within the public sector to leverage economies of scale, improve efficiency and enhance service quality.
+VITAL is the Singapore Public Service’s central agency for corporate shared services entrusted with managing and transforming corporate service delivery for Whole-of-Government. Established as a department under the Ministry of Finance in 2006, VITAL aggregates common corporate services in areas such as human resources (HR) & payroll, finance and procurement within the public sector to achieve economies of scale, improve efficiency, strengthen governance and enhance service quality. As a policy-ops-tech innovation platform and robotics & automation (R&A) lead for corporate and administrative services, VITAL also partners the functional leaders, as well as policy and system owners (namely, the Public Service Division, Accountant-General’s Department and Government Procurement Function Office) to transform Public Service corporate services. 
 
-Today, we serve more than 100,000 public officers over a wide range of corporate and administrative processes in finance, human resource and procurement.
+With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e.  ministries, organs of state, or statutory boards) and over 100,000 public officers.
 
 <div class="vision-mission-values">
     <div class="block">
