@@ -115,6 +115,14 @@ description: Depository of VITAL’s publications, videos, and media materials
             <a href="https://youtu.be/TbPCAeNUrcw">CE’s fireside chat at GovInsider’s Festival of Innovation 2021</a>
          </td>
       </tr>
+		 <tr class="tr_videos">
+<td class="item-date">
+19 Oct 2021
+</td>
+<td class="item-title">
+<a href=https://youtu.be/KyItWhIAO8w>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</a>
+</td>
+</tr>
    </tbody>
 </table>
 
