@@ -58,7 +58,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 27 Aug 2021
 				 </td>
 			 <td class="item-title">
-				 <a href="files/Enableing Mark.pdf">VITAL has been conferred inaugural Enabling Mark Award (Gold) (PDF, 0.7mb)</a>
+				 <a href="files/Enabling Mark - for website.pdf">VITAL has been conferred inaugural Enabling Mark Award (Gold) (PDF, 0.7mb)</a>
 				 </td>
 			 </tr>
 		 <tr style="display: table-row;" class="tr_publications">
