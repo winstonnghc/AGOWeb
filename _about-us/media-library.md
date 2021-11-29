@@ -53,6 +53,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 <a href="/files/Lawrence Wong.pdf">Minister Lawrence Wong's Visit to VITAL (PDF, 0.4mb)</a>
 				 </td>
 			 </tr>
+		 <tr style="display: table-row;" class="tr_publications">
+			 <td class="item-date">
+				 27 Aug 2021
+				 </td>
+			 <td class="item-title">
+				 <a href="files/Enableing Mark.pdf">VITAL has been conferred inaugural Enabling Mark Award (Gold) (PDF, 0.7mb)</a>
+				 </td>
+			 </tr>
    </tbody>
 </table>
 
