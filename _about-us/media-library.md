@@ -66,7 +66,9 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 01 Sep 2021
 				 </td>
 			 <td class="item-title">
-				 <a href=
+				 <a href="files/VITAL Choses X0PA AI - X0PA AI.pdf">VITAL partners XOPA to make hiring processes more effective and efficient (PDF, 1mb)</a>
+				 </td>
+			 </tr>
    </tbody>
 </table>
 
