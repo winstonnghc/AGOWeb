@@ -162,5 +162,6 @@ description: Key events that took place since VITAL’s formation
 					</ul>
 				</td>
 			</tr>
+		<tr>
   </tbody>
 </table>
