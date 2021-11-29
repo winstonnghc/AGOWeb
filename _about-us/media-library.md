@@ -45,6 +45,12 @@ description: Depository of VITAL’s publications, videos, and media materials
             <a href="/files/sgpublicsectorai.pdf">How AI and robots will change Singapore’s public sector (PDF, 0.3mb)</a>
          </td>
       </tr>
+		 <tr style="display: table-row;" class="tr_publications">
+			 <td class="item-date">
+				 30 Jun 2021
+				 </td>
+			 <td class="item-title">
+				 <a href=
    </tbody>
 </table>
 
