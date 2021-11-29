@@ -85,7 +85,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="/files/SSON Award - for website.pdf">VITAL receives Business Resilience Impact Award (Silver) at SSON Asia Impact Awards 2021 (PDF, 0.3mb)</a>
 </td>
 </tr>
-		 
+		 <tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+19 Oct 2021
+</td>
+<td class="item-title">
+<a href="/files/SSOW - for website.pdf">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week (PDF, 0.3mb)</a>
+</td>
+</tr>
    </tbody>
 </table>
 
