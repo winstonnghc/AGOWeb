@@ -29,20 +29,21 @@ With more than 500 staff and still growing, VITAL is serving more than 100 publi
     <div class="block">
         <img src="/images/overview/our-vision.jpg" alt="Our Vision">
         <h3>Our Vision</h3>
-        <p>A leading provider of corporate services and solutions for public service agencies.</p>
+        <p>A globally recognised leader for corporate shared services</p>
     </div>
     <div class="block">
         <img src="/images/overview/our-mission.jpg" alt="Our Mission">
         <h3>Our Mission</h3>
-        <p>We deliver quality corporate services and create value as a trusted service partner.</p>
+        <p>To transform and deliver corporate shared services for the Singapore Public Service</p>
     </div>
     <div class="block">
         <img src="/images/overview/core-values.jpg" alt="Our Core Values">
         <h3>Our Core Values</h3>
         <ul>
-            <li>Passion for Excellence</li>
-            <li>Professionalism with Integrity</li>
-            <li>Caring Team</li>
-            <li>Catalyst for Change</li>
+            <li>Visionary</li>
+            <li>Innovation</li>
+            <li>Teamwork</li>
+            <li>Agility</li>
+						<li>Leadership</li>
         </ul>
     </div></div>
