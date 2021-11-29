@@ -77,6 +77,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="/files/EDM - fireside chat - for website.pdf">CE’s fireside chat at GovInsider’s Festival of Innovation 2021 (PDF, 0.3mb)</a>
 </td>
 </tr>
+<tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+18 Oct 2021
+</td>
+<td class="item-title">
+<a href="/files/SSON Award - for website.pdf">VITAL receives Business Resilience Impact Award (Silver) at SSON Asia Impact Awards 2021 (PDF, 0.3mb)</a>
+</td>
+</tr>
 		 
    </tbody>
 </table>
