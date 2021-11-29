@@ -50,7 +50,9 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 30 Jun 2021
 				 </td>
 			 <td class="item-title">
-				 <a href=
+				 <a href="/files/Lawrence Wong.pdf">Minister Lawrence Wong's Visit to VITAL (PDF, 0.4mb)</a>
+				 </td>
+			 </tr>
    </tbody>
 </table>
 
