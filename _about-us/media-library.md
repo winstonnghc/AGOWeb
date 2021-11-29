@@ -120,7 +120,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 19 Oct 2021
 </td>
 <td class="item-title">
-<a href=https://youtu.be/KyItWhIAO8w>CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</a>
+<a href="https://youtu.be/KyItWhIAO8w">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</a>
 </td>
 </tr>
    </tbody>
