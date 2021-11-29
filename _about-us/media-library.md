@@ -112,7 +112,7 @@ description: Depository of VITAL’s publications, videos, and media materials
             14 Sep 2021									
          </td>
          <td class="item-title">
-            <a href="https://www.youtube.com/watch?v=ctwGWSLHzAU">Corporate Video 2016</a>
+            <a href="https://youtu.be/TbPCAeNUrcw">CE’s fireside chat at GovInsider’s Festival of Innovation 2021</a>
          </td>
       </tr>
    </tbody>
