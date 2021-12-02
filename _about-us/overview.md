@@ -40,7 +40,7 @@ With more than 500 staff and still growing, VITAL is serving more than 100 publi
         <img src="/images/overview/core-values.jpg" alt="Our Core Values">
         <h3>Our Core Values</h3>
         <ul>
-            <li>Visionary</li>
+            <li>**V**isionary</li>
             <li>Innovation</li>
             <li>Teamwork</li>
             <li>Agility</li>
