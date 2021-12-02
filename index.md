@@ -37,7 +37,7 @@ sections:
       image: /images/home/working-in-vital.jpg
       alt: Working in VITAL
   - infobar:
-      title: VITAL Corporate Video
+      title: VITAL 15th Anniversary Corporate Video
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
         src="https://www.youtube.com/embed/709NvIMGSpI?rel=0&amp;showinfo=0"
