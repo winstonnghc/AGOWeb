@@ -149,5 +149,18 @@ description: Key events that took place since VITAL’s formation
         </ul>
       </td>
     </tr>
-  </tbody>
+		<tr>
+			<td>2021
+				</td>
+			<td>
+				<ul>
+					<li> Achieved the Enabling Mark (Gold) Award by SG Enable, which recognised us for disability-inclusive employment</li>
+					<li> Supported the roll-out of HRP, the new central HR and payroll administration system for ministries</li>
+					<li> SSON Asia Impact Awards 2021 – Business Resilience Impact Award (Silver)</li>
+					<li>Celebrated VITAL’s 15th 
+						anniversary</li>
+					</ul>
+				</td>
+			</tr>
+ </tbody>
 </table>

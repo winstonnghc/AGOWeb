@@ -45,6 +45,54 @@ description: Depository of VITAL’s publications, videos, and media materials
             <a href="/files/sgpublicsectorai.pdf">How AI and robots will change Singapore’s public sector (PDF, 0.3mb)</a>
          </td>
       </tr>
+		 <tr style="display: table-row;" class="tr_publications">
+			 <td class="item-date">
+				 30 Jun 2021
+				 </td>
+			 <td class="item-title">
+				 <a href="/files/Lawrence Wong.pdf">Minister Lawrence Wong's visit to VITAL (PDF, 0.4mb)</a>
+				 </td>
+			 </tr>
+		 <tr style="display: table-row;" class="tr_publications">
+			 <td class="item-date">
+				 27 Aug 2021
+				 </td>
+			 <td class="item-title">
+				 <a href="/files/Enabling Mark - for website.pdf">VITAL has been conferred inaugural Enabling Mark Award (Gold) (PDF, 0.7mb)</a>
+				 </td>
+			 </tr>
+		 <tr style="display: table-row;" class="tr_publications">
+			 <td class="item-date">
+				 01 Sep 2021
+				 </td>
+			 <td class="item-title">
+				 <a href="/files/VITAL Choses X0PA AI - X0PA AI.pdf">VITAL partners XOPA to make hiring processes more effective and efficient (PDF, 1mb)</a>
+				 </td>
+			 </tr>
+<tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+14 Sep 2021
+</td>
+<td class="item-title">
+<a href="/files/EDM - fireside chat - for website.pdf">CE’s fireside chat at GovInsider’s Festival of Innovation 2021 (PDF, 0.3mb)</a>
+</td>
+</tr>
+<tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+18 Oct 2021
+</td>
+<td class="item-title">
+<a href="/files/SSON Award - for website.pdf">VITAL receives Business Resilience Impact Award (Silver) at SSON Asia Impact Awards 2021 (PDF, 0.3mb)</a>
+</td>
+</tr>
+		 <tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+19 Oct 2021
+</td>
+<td class="item-title">
+<a href="/files/SSOW - for website.pdf">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week (PDF, 0.3mb)</a>
+</td>
+</tr>
    </tbody>
 </table>
 
@@ -61,12 +109,20 @@ description: Depository of VITAL’s publications, videos, and media materials
    <tbody>
       <tr class="tr_videos">
          <td class="item-date">
-            01 Jan 2016									
+            14 Sep 2021									
          </td>
          <td class="item-title">
-            <a href="https://www.youtube.com/watch?v=ctwGWSLHzAU">Corporate Video 2016</a>
+            <a href="https://youtu.be/TbPCAeNUrcw">CE’s fireside chat at GovInsider’s Festival of Innovation 2021</a>
          </td>
       </tr>
+		 <tr class="tr_videos">
+<td class="item-date">
+19 Oct 2021
+</td>
+<td class="item-title">
+<a href="https://youtu.be/KyItWhIAO8w">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</a>
+</td>
+</tr>
    </tbody>
 </table>
 
