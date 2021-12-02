@@ -128,7 +128,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 01 Dec 2021
 </td>
 <td class="item-title">
-<a href="https://youtu.be/709NvIMGSpI">VITAL 15th Anniversary Corporate Vcideo</a>
+<a href="https://youtu.be/709NvIMGSpI">VITAL 15th Anniversary Corporate Video</a>
 </td>
 </tr>
    </tbody>
