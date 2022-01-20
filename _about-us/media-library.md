@@ -93,6 +93,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="/files/SSOW - for website.pdf">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week (PDF, 0.3mb)</a>
 </td>
 </tr>
+	                   <tr style="display: table-row;" class="tr_publications">
+<td class="item-date">
+25 Nov 2021
+</td>
+<td class="item-title">
+<a href="/files/ASEAN.jpg">ASEAN Workshop on IT Application in Civil Service Modernisation (JPG, 0.4mb)</a>
+</td>
+</tr>
    </tbody>
 </table>
 
