@@ -131,6 +131,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="https://youtu.be/KyItWhIAO8w">CE’s presentation at the 24th Asian Shared Services and Outsourcing Week</a>
 </td>
 </tr>
+	   <tr class="tr_videos">
+<td class="item-date">
+20 Jan 2022
+</td>
+<td class="item-title">
+<a href="https://youtu.be/RgqYee3O6Bo">VITAL Corporate Video</a>
+</td>
+</tr>
    </tbody>
 </table>
 
