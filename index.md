@@ -36,9 +36,4 @@ sections:
       url: /career/our-vitalites
       image: /images/home/working-in-vital.jpg
       alt: Working in VITAL
-  - infobar:
-      title: VITAL Corporate Video
-      description: Infobar description
-      button: Button Text
-      url: https://youtu.be/RgqYee3O6Bo
 ---
