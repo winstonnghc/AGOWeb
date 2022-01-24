@@ -37,8 +37,7 @@ sections:
       image: /images/home/working-in-vital.jpg
       alt: Working in VITAL
    - infobar:
-   title: Vital corporate Video 
-   description: <div class="home-video" >
-  <iframe id="corp_video_player" title="Corporate Video" width="640" height="350" 
-         src=https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&amp;showinfo=0 allow="encrypted-media" allowfullscreen="" contenteditable="false">
+   title: VITAL Corporate Video 
+   description: <div class="home-video">
+  <iframe id="corp_video_player" title="Corporate Video" width="640" height="350" src=https://www.youtube.com/embed/RgqYee3O6Bo?rel=0&amp;showinfo=0 allow="encrypted-media" allowfullscreen="" contenteditable="false">
 ---
