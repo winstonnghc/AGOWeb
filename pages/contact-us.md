@@ -15,7 +15,7 @@ contacts:
     - other: <p><span>For queries/appeals from MPs, POHs or Agency QSMs, please email to </span> <a href="mailto:vital-QSM@vital.gov.sg" target="">VITAL QSM</a>.</p>
     - title: VITAL Whistleblowing Channel
     content:
-    - other: <p><span>To make a whistleblowing report, please fill up this </span> <a href="https://go.gov.sg/vitalwhistleblowing" target="">form</a><span>or email to </span> <a href:"mailto:whistleblow@vital.gov.sg" target="">VITAL Whistleblowing</a><span> with the details of the incident, if you are unable to access the form. We are committed to ensure that your identity and all disclosed information shall be treated with the strictest confidence.</span></p>
+    - other: <p><span>To make a whistleblowing report, please fill up this </span> <a href="https://go.gov.sg/vitalwhistleblowing" target="">online form</a><span> or email to </span> <a href="mailto:whistleblow@vital.gov.sg" target="">VITAL Whistleblowing</a><span> with the details of the incident, if you are unable to access the online form.</span></p> <p><span>We are committed to ensure that your identity and all disclosed information shall be treated with the strictest confidence.</span></p>
 locations: 
   - title: Address
     address:
