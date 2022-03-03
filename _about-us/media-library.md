@@ -101,6 +101,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="/files/ASEAN.jpg">ASEAN Workshop on IT Application in Civil Service Modernisation (JPG, 0.4mb)</a>
 </td>
 </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
+            21 Feb 2022									
+         </td>
+         <td class="item-title">
+            <a href="/images/Media/SSON advisory board.jpg">VITAL CE joins SSON Asia Advisory Board 2022 (JPG, 0.3mb)</a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
