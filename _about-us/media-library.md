@@ -31,14 +31,6 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
 		       <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
-            05 Jul 2021									
-         </td>
-         <td class="item-title">
-            <a href="/files/15thanniversaryspeech.pdf">VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
-         </td>
-      </tr>
-		       <tr style="display: table-row;" class="tr_publications">
-         <td class="item-date">
             20 Apr 2021									
          </td>
          <td class="item-title">
@@ -53,6 +45,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 <a href="/files/Lawrence Wong.pdf">Minister Lawrence Wong's visit to VITAL (PDF, 0.4mb)</a>
 				 </td>
 			 </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
+            05 Jul 2021									
+         </td>
+         <td class="item-title">
+            <a href="/files/15thanniversaryspeech.pdf">VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
+         </td>
+      </tr>
 		 <tr style="display: table-row;" class="tr_publications">
 			 <td class="item-date">
 				 27 Aug 2021
