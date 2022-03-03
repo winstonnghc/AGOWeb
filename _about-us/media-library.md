@@ -103,6 +103,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 </tr>
 	   <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
+            28 Jan 2022									
+         </td>
+         <td class="item-title">
+            <a href="/images/Media/Hackathon.jpg">VITAL Data Hackathon 2022 (JPG, 0.3mb)</a>
+         </td>
+      </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
             21 Feb 2022									
          </td>
          <td class="item-title">
