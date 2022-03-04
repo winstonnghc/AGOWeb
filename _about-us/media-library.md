@@ -31,14 +31,6 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
 		       <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
-            05 Jul 2021									
-         </td>
-         <td class="item-title">
-            <a href="/files/15thanniversaryspeech.pdf">VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
-         </td>
-      </tr>
-		       <tr style="display: table-row;" class="tr_publications">
-         <td class="item-date">
             20 Apr 2021									
          </td>
          <td class="item-title">
@@ -53,6 +45,14 @@ description: Depository of VITAL’s publications, videos, and media materials
 				 <a href="/files/Lawrence Wong.pdf">Minister Lawrence Wong's visit to VITAL (PDF, 0.4mb)</a>
 				 </td>
 			 </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
+            05 Jul 2021									
+         </td>
+         <td class="item-title">
+            <a href="/files/15thanniversaryspeech.pdf">VITAL 15 Anniversary Speech (PDF, 0.5mb)</a>
+         </td>
+      </tr>
 		 <tr style="display: table-row;" class="tr_publications">
 			 <td class="item-date">
 				 27 Aug 2021
@@ -101,6 +101,22 @@ description: Depository of VITAL’s publications, videos, and media materials
 <a href="/files/ASEAN.jpg">ASEAN Workshop on IT Application in Civil Service Modernisation (JPG, 0.4mb)</a>
 </td>
 </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
+            28 Jan 2022									
+         </td>
+         <td class="item-title">
+            <a href="/images/Media/Hackathon.jpg">VITAL Data Hackathon 2022 (JPG, 0.3mb)</a>
+         </td>
+      </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+         <td class="item-date">
+            21 Feb 2022									
+         </td>
+         <td class="item-title">
+            <a href="/images/Media/SSON advisory board.jpg">VITAL CE joins SSON Asia Advisory Board 2022 (JPG, 0.3mb)</a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
