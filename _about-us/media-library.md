@@ -179,6 +179,14 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
    </thead>
    <tbody>
+	   <tr class="tr_videos">
+<td class="item-date">
+17 Feb 2022
+</td>
+<td class="item-title">
+<a href="https://youtu.be/KyItWhIAO8w">VITAL Corporate Video</a>
+</td>
+</tr>
 	   	   <tr class="tr_videos">
 <td class="item-date">
 25 Jan 2022
