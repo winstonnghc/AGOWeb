@@ -23,7 +23,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 	   </tr>
 	   <tr style="display: table-row;" class="tr_publications">
 	<td class="item-date">
-		7 Apr 2022                                                                 
+		07 Apr 2022                                                                 
 	</td>
 	<td class="item-title">
 		<a href="/images/Media/DCD HerStories.jpg">Director (Corporate Development)'s participation in Accenture's HerStories conversations(JPG, 0.4mb)</a>
@@ -31,7 +31,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 	   </tr>
 	      <tr style="display: table-row;" class="tr_publications">
 	<td class="item-date">
-		7 Apr 2022                                                                 
+		07 Apr 2022                                                                 
 	</td>
 	<td class="item-title">
 		<a href="/images/Media/AI X Gov.jpg">CE's presentation at GovInsider's AI x Gov Summit (JPG, 0.3mb)</a>
@@ -39,7 +39,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 	   </tr>
 	   <tr style="display: table-row;" class="tr_publications">
 	<td class="item-date">
-		5 Apr 2022                                                                 
+		05 Apr 2022                                                                 
 	</td>
 	<td class="item-title">
 		<a href="/images/Media/GovInsider Interview.jpg">GovInsider's interview with CE on digitalisation and automation(JPG, 0.6mb)</a>
@@ -181,7 +181,7 @@ description: Depository of VITAL’s publications, videos, and media materials
    <tbody>
 <tr class="tr_videos">
 <td class="item-date">
-7 Apr 2022
+07 Apr 2022
 </td>
 <td class="item-title">
 <a href="https://www.youtube.com/watch?v=_mFuvTrc9N8">CE's presentation at GovInsider's AI x Gov Summit</a>
