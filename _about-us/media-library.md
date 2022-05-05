@@ -179,12 +179,20 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
    </thead>
    <tbody>
+<tr class="tr_videos">
+<td class="item-date">
+7 Apr 2022
+</td>
+<td class="item-title">
+<a href="https://youtu.be/KyItWhIAO8w">CE's presentation at GovInsider's AI x Gov Summit</a>
+</td>
+</tr>
 	   <tr class="tr_videos">
 <td class="item-date">
 17 Feb 2022
 </td>
 <td class="item-title">
-<a href="https://youtu.be/KyItWhIAO8w">VITAL Corporate Video</a>
+<a href="https://youtu.be/KyItWhIAO8w">DCE's presentation at the Singapore OpenGov Leadership Forum</a>
 </td>
 </tr>
 	   	   <tr class="tr_videos">
