@@ -154,7 +154,7 @@ description: Depository of VITAL’s publications, videos, and media materials
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/files/roboticsshift.pdf">Meet the Team Leading SG Govt Robotics Shift (PDF, 1MB)</a>
+            <a href="/files/roboticsshift.pdf">Meet the Team Leading SG Govt Robotics Shift (PDF, 1mb)</a>
          </td>
       </tr>
       <tr style="display: table-row;" class="tr_publications">
