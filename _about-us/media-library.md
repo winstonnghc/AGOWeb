@@ -50,7 +50,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 		28 Feb 2022                                                                 
 	</td>
 	<td class="item-title">
-		<a href="/media/VITAL Newsletter Feb 2022.pdf">VITAL Newsletter Feb 2022 (PDF, 0.3mb)</a>
+		<a href="/files/Newsletter Feb 2022.pdf">VITAL Newsletter Feb 2022 (PDF, 0.3mb)</a>
 	</td>
 	   </tr>
 	   	   <tr style="display: table-row;" class="tr_publications">
@@ -154,7 +154,7 @@ description: Depository of VITAL’s publications, videos, and media materials
             20 Apr 2021									
          </td>
          <td class="item-title">
-            <a href="/files/roboticsshift.pdf">Meet the Team Leading SG Govt Robotics Shift</a>
+            <a href="/files/roboticsshift.pdf">Meet the Team Leading SG Govt Robotics Shift (PDF, 1MB)</a>
          </td>
       </tr>
       <tr style="display: table-row;" class="tr_publications">
