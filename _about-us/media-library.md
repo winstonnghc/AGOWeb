@@ -15,6 +15,14 @@ description: Depository of VITAL’s publications, videos, and media materials
    <tbody>
 	   <tr style="display: table-row;" class="tr_publications">
 	<td class="item-date">
+		23 Apr 2022                                                                 
+	</td>
+	<td class="item-title">
+		<a href="/images/Media/BT article.jpg">The Business Times article: Building the hybrid human-digital workforce of the future(JPG, 0.8mb)</a>
+	</td>
+	   </tr>
+	   <tr style="display: table-row;" class="tr_publications">
+	<td class="item-date">
 		7 Apr 2022                                                                 
 	</td>
 	<td class="item-title">
@@ -45,14 +53,6 @@ description: Depository of VITAL’s publications, videos, and media materials
 		<a href="/media/Newsletter Feb 2022.pdf">VITAL Newsletter Feb 2022 (PDF, 0.3mb)</a>
 	</td>
 	   </tr>
-	   <tr style="display: table-row;" class="tr_publications">
-	<td class="item-date">
-		17 Feb 2022                                                                 
-	</td>
-	<td class="item-title">
-		<a href="/images/Media/DCE OpenGov.jpg">DCE's presentation at the Singapore OpenGov Leadership Forum (JPG, 0.4mb)</a>
-	</td>
-	   </tr>
 	   	   <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             21 Feb 2022									
@@ -61,6 +61,14 @@ description: Depository of VITAL’s publications, videos, and media materials
             <a href="/images/Media/SSON advisory board.jpg">VITAL CE joins SSON Asia Advisory Board 2022 (JPG, 0.3mb)</a>
          </td>
       </tr>
+	   	   <tr style="display: table-row;" class="tr_publications">
+	<td class="item-date">
+		17 Feb 2022                                                                 
+	</td>
+	<td class="item-title">
+		<a href="/images/Media/DCE OpenGov.jpg">DCE's presentation at the Singapore OpenGov Leadership Forum (JPG, 0.4mb)</a>
+	</td>
+	   </tr>
 	   	   <tr style="display: table-row;" class="tr_publications">
          <td class="item-date">
             28 Jan 2022									
