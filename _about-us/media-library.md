@@ -13,6 +13,14 @@ description: Depository of VITAL’s publications, videos, and media materials
       </tr>
    </thead>
    <tbody>
+	      <tr style="display: table-row;" class="tr_publications">
+	<td class="item-date">
+		7 Apr 2022                                                                 
+	</td>
+	<td class="item-title">
+		<a href="/images/Media/AI X Gov.jpg">GovInsider's interview with CE on digitalisation and automation(JPG, 0.3mb)</a>
+	</td>
+	   </tr>
 	   <tr style="display: table-row;" class="tr_publications">
 	<td class="item-date">
 		5 Apr 2022                                                                 
