@@ -50,7 +50,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 		28 Feb 2022                                                                 
 	</td>
 	<td class="item-title">
-		<a href="/media/Newsletter Feb 2022.pdf">VITAL Newsletter Feb 2022 (PDF, 0.3mb)</a>
+		<a href="/media/VITAL Newsletter Feb 2022.pdf">VITAL Newsletter Feb 2022 (PDF, 0.3mb)</a>
 	</td>
 	   </tr>
 	   	   <tr style="display: table-row;" class="tr_publications">
@@ -184,7 +184,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 7 Apr 2022
 </td>
 <td class="item-title">
-<a href="https://youtu.be/KyItWhIAO8w">CE's presentation at GovInsider's AI x Gov Summit</a>
+<a href="https://www.youtube.com/watch?v=_mFuvTrc9N8">CE's presentation at GovInsider's AI x Gov Summit</a>
 </td>
 </tr>
 	   <tr class="tr_videos">
@@ -192,7 +192,7 @@ description: Depository of VITAL’s publications, videos, and media materials
 17 Feb 2022
 </td>
 <td class="item-title">
-<a href="https://youtu.be/KyItWhIAO8w">DCE's presentation at the Singapore OpenGov Leadership Forum</a>
+<a href="https://www.youtube.com/watch?v=_S1HDsrELR0">DCE's presentation at the Singapore OpenGov Leadership Forum</a>
 </td>
 </tr>
 	   	   <tr class="tr_videos">
