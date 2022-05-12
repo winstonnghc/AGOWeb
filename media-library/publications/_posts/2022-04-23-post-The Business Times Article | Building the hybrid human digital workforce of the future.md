@@ -34,7 +34,7 @@ By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pac
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">Aside from touting the benefits in terms of driving efficiency and productivity, it is critical that business leaders stress that automation, contrary to popular belief, does not take away jobs. Instead, automation takes over manual and tedious operational activities such as data entry and other rules-based processes, giving workers more time back in their day to focus on more strategic work. Having technology execute these responsibilities allows employees to advance into higher-skilled roles - effectively furthering them in their careers instead of stopping them short.</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 20px;">Build skill sets for the automation era</b></div>
+<div style="font-size: 20px;"><b>Build skill sets for the automation era</b></div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">Wide-scale training will be needed to move current employees into these higher-value roles. In fact, business leaders predict that they will have to retrain a third of their workforce over the next few years because of automation technologies.</div>
 <div>&nbsp;&nbsp;</div>
