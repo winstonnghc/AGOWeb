@@ -6,8 +6,6 @@ date: 2022-04-23
 layout: post
 description: The Business Times Article | Building the hybrid human-digital workforce
 ---
-<html>
-<body>
 <div style="font-size: 20px;">This article from The Business Times discusses how to prepare organisations for a seamless transition to digitalisation and automation. VITAL's citizen development strategy is cited as a good example to enable those without programming skills to actively participate in the automation initiative!</div>
 <hr>
 <div>
@@ -61,5 +59,3 @@ By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pac
 <p>With automation increasingly becoming commonplace in our workplace today, it is inevitable that business leaders must evolve to manage a human-digital workforce. We will have to prioritise training employees on how to effectively leverage automation technologies, and help them adjust to their new roles. Careful planning and continued oversight will be crucial to prepare organisations for a seamless transition to a future where robots and humans work alongside one another</p>
 <br>
 <p><i>Click <a href="https://www.businesstimes.com.sg/leadership-management/building-the-hybrid-human-digital-workforce-of-the-future"> HERE</a> to read the original article from The Business Times website.</i></p>
-</body>
-</html>
