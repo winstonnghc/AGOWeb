@@ -17,8 +17,7 @@ Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
 Yun Xuan Poon | 20 Apr 2021
 </div>
 <hr>
-
-![](/images/Media/roboticshift_1.png)
+<img src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
 <div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
 Think of Robotic Process Automation (RPA) as a quiet, industrious colleague. She may not say much, but she keeps her head down and gets the job done quickly, no matter how tedious or repetitive it is.
@@ -87,8 +86,7 @@ VITAL provides deposit creation services to more than 30 agencies. “Imagine ea
 <div style="font-size: 22px;">
 <b>'Supervisor of bots'</b>
 </div>
-	
-![](/images/Media/roboticshift_2.png)
+<img src="/images/Media/roboticshift_2.png" alt="Robotic Shift">	
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">
 Standard RPA software is not easy to pick up, Lui concedes. The agency wants to make the tech more accessible for civil servants.
