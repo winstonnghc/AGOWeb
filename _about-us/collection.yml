@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - media-library.md
-      - Media library/.keep
       - overview.md
       - milestones.md
       - management.md
