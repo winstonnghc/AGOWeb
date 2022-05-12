@@ -19,7 +19,7 @@ By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pac
 <div style="font-size: 20px;">With the labour crunch emerging as one of the more pressing challenges facing our workforces today, organisations urgently need to find ways to mitigate the impacts and future-proof their business. Against this backdrop, software automation has emerged as a game changer as we transition to the future of work.</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">While adoption in automation is accelerating significantly, with Forrester predicting that the global Robotic Process Automation (RPA) market will grow to US$22 billion by 2025, many governments and businesses in Asia-Pacific (Apac) are already increasingly prioritising investment in automation solutions. For example, Singapore has earmarked S$600 million in its Budget 2022 to help small and medium-size enterprises (SMEs) boost their productivity by digitalising and automating their business processes.</div>
-<div>  </div>
+<div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">As a result, we can expect hybrid human-digital workforces to become commonplace within the next 5 years. People will work side by side with their virtual software assistants, sharing tasks, handing work off, and taking it back many times throughout the day.</div>
 <div>  </div>
 <div style="font-size: 20px;">As we edge closer towards that reality, how can we ensure that employees embrace automation and learn to work effectively with automated processes and digital assistants? And as robots take on lower-skilled, mundane, and repetitive tasks, how can organisations best redeploy workers and prepare them to take on new, higher-skilled, and more strategic work?</div>
