@@ -8,7 +8,7 @@ description: The Business Times Article | Building the hybrid human-digital work
 ---
 <html>
 <body>
-<p>This article from The Business Times discusses how to prepare organisations for a seamless transition to digitalisation and automation. VITAL's citizen development strategy is cited as a good example to enable those without programming skills to actively participate in the automation initiative!</p>
+<div style="font-size: 20px;">This article from The Business Times discusses how to prepare organisations for a seamless transition to digitalisation and automation. VITAL's citizen development strategy is cited as a good example to enable those without programming skills to actively participate in the automation initiative!</div>
 <hr>
 <div>
 By Rick Harshman, senior vice-president and managing director of UiPath Asia-Pacific and Japan
