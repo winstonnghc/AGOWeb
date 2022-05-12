@@ -16,6 +16,7 @@ Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
 <div>
 Yun Xuan Poon | 20 Apr 2021
 </div>
+<div>&nbsp;&nbsp;</div>
 <img src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
 <div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
