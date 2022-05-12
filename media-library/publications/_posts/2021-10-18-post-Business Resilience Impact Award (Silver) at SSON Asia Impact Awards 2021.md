@@ -6,4 +6,4 @@ layout: post
 description: VITAL receives Business Resilience Impact Award (Silver) at SSON
   Asia Impact Awards 2021
 ---
-<iframe src="/files/SSON%20Award%20-%20for%20website.pdf" width="100%" height="500px"></iframe>
+<embed src="/files/SSON%20Award%20-%20for%20website.pdf" />
