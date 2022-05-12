@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - media-library.md
       - Media library/.keep
       - overview.md
       - milestones.md
