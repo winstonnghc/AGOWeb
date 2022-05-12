@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Example Title.md
       - Media library/media-library.md
       - Media library/.keep
       - overview.md
