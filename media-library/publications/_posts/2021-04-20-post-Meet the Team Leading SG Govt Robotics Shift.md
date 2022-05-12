@@ -17,7 +17,7 @@ Interview with Dennis Lui, Chief Executive, VITAL, Ministry of Finance.
 Yun Xuan Poon | 20 Apr 2021
 </div>
 <div>&nbsp;&nbsp;</div>
-<img src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
+<img id="MainImage" src="/images/Media/roboticshift_1.png" alt="Main image from VITAL">
 <div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
 Think of Robotic Process Automation (RPA) as a quiet, industrious colleague. She may not say much, but she keeps her head down and gets the job done quickly, no matter how tedious or repetitive it is.
@@ -130,5 +130,5 @@ As custodian of the public sector’s most fundamental processes, VITAL’s job 
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 18px;">
-<i>Main image from VITAL. From left to right: Janel Lee, Gerald Tay, Toe Saibun, VITAL Chief Executive Dennis Lui, Ang Chin Pei, Jessica Ong, Kho Hock Guan.</i>
+	<i><a href="#MainImage">Main image from VITAL.</a> From left to right: Janel Lee, Gerald Tay, Toe Saibun, VITAL Chief Executive Dennis Lui, Ang Chin Pei, Jessica Ong, Kho Hock Guan.</i>
 </div>
