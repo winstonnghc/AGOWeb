@@ -8,3 +8,5 @@ links:
     collection: our-portfolio
   - title: Career
     collection: career
+  - title: Media Library
+    resource_room: true
