@@ -24,14 +24,12 @@ description: VITAL 15 Anniversary Speech
 <div style="font-size: 20px;">
 <li>VITAL was officially launched on 5 July 2006 as CSS-Vital org. We faced challenges from the outset. The transactional processing functions were moved using a ‘lift and shift’ approach Streamlining of processes was difficult to do.</li>
 </div>
-<div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">
-3.
-Our pioneer batch of employees were from diverse
-backgrounds, from different Ministries Creating a common
-culture and identity was not an easy task
-b.
-Growth and Digitalisation
+<li>Our pioneer batch of employees were from diverse
+backgrounds, from different Ministries. Creating a common culture and identity was not an easy task.</li>
+<div style="font-size: 22px;">
+<b>b. Growth and Digitalisation</b>
+</div>
 4.
 But we prevailed We set up new service lines and
 expanded our partner base to Statutory Boards Vital org
