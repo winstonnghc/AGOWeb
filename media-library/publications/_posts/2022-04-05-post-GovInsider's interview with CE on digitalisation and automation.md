@@ -10,7 +10,7 @@ description: GovInsider's interview with CE on digitalisation and automation
 <div>
 Dennis Lui, Chief Executive of VITAL, Ministry of Finance, shares how digitalisation helps rank-and-file staff in government work more efficiently.
 <br><br>
-By Liew Ming En, 5 APR 2022</div>
+By Liew Ming En | 05 APR 2022</div>
 <hr>
 <div style="font-size: 20px;">
 In a magic show, everyone applauds the magician and their assistant for illusions well performed. Yet, no show would be successful without the work of the crew behind the scenes. Those manning the props, lighting, music, and other details help make magic happen.
