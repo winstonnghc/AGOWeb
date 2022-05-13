@@ -30,12 +30,7 @@ backgrounds, from different Ministries. Creating a common culture and identity w
 <div style="font-size: 22px;">
 <b>b. Growth and Digitalisation</b>
 </div>
-4.
-But we prevailed We set up new service lines and
-expanded our partner base to Statutory Boards Vital org
-was rebranded as VITAL in 2011 This refresh gave us new
-confidence to embrace change and sharpen our service
-delivery
+<li>But we prevailed. We set up new service lines and expanded our partner base to Statutory Boards. Vital.org was rebranded as VITAL in 2011 This refresh gave us new confidence to embrace change and sharpen our service delivery.</li>
 5.
 We have championed digitalisation and automation For
 example, VITAL was an early adopter of RPA technology
