@@ -16,7 +16,5 @@ This book is dedicated specially to the pioneers of VITAL, who have paved the wa
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px">
-<a href = "/files/10yearsofbeingvital.pdf">VITAL 10 Commemorative Book</a>
+<a href = "/media/10yearsofbeingvital.pdf">VITAL 10 Commemorative Book</a>
 </div>
-	
-	
