@@ -22,6 +22,6 @@ VITAL's work was also recognised by the industry for the Diversity & Inclusion I
 <div>&nbsp;&nbsp;</div>
 </div>
 <div>&nbsp;&nbsp;</div>
-<div>
-
-[SSON Business Resilience Impact Award (Silver)](/files/SSON%20Award%20-%20for%20website.pdf)
+<div style="font-size: 20px">
+<a href = "/files/SSON%20Award%20-%20for%20website.pdf">SSON Business Resilience Impact Award (Silver)</a>
+	</div>
