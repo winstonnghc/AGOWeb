@@ -6,37 +6,51 @@ layout: post
 description: VITAL 15 Anniversary Speech
 ---
 <img src="/images/Media/VITAL-15-Anniversary_1.png" />	
-<div style="font-size: 20px;">
-<ol>
-<li>Good morning VITALites. Today, 5th July 2021, marks VITAL's 15th birthday!</li>
 <div>&nbsp;&nbsp;</div>	
-<div style="font-size: 24px;color:blue;"><b>VITAL’s History</b>
+<div style="font-size: 20px;">
+Good morning VITALites. Today, 5th July 2021, marks VITAL's 15th birthday!
+</div>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 24px;color:blue;">
+<b>VITAL’s History</b>
 </div>
 <div style="font-size: 22px;">
 <b>a. Our Humble Challenging Beginning</b>
 </div>
+<div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
-<li>VITAL was officially launched on 5 July 2006 as CSS-Vital org. We faced challenges from the outset. The transactional processing functions were moved using a ‘lift and shift’ approach Streamlining of processes was difficult to do.</li>
+VITAL was officially launched on 5 July 2006 as CSS-Vital org. We faced challenges from the outset. The transactional processing functions were moved using a ‘lift and shift’ approach Streamlining of processes was difficult to do.
 </div>
+<div>&nbsp;&nbsp;</div>	
 <div style="font-size: 20px;">
-<li>Our pioneer batch of employees were from diverse
-backgrounds, from different Ministries. Creating a common culture and identity was not an easy task.</li>
+Our pioneer batch of employees were from diverse
+backgrounds, from different Ministries. Creating a common culture and identity was not an easy task.
+</div>
+<div>&nbsp;&nbsp;</div>	
 <div style="font-size: 22px;">
 <b>b. Growth and Digitalisation</b>
 </div>
-<li>But we prevailed. We set up new service lines and expanded our partner base to Statutory Boards. Vital.org was rebranded as VITAL in 2011 This refresh gave us new confidence to embrace change and sharpen our service delivery.</li>
-5.
-We have championed digitalisation and automation For
-example, VITAL was an early adopter of RPA technology
-within the public sector
-c.
-VITAL’s Culture Transformation
-6.
-VITAL flourished with the strong commitment of our people
-Some may remember the Family@Work movement, with
-the 12 Tribes and CSR activities
-Achievements
-in FY 2020
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 20px;">
+But we prevailed. We set up new service lines and expanded our partner base to Statutory Boards. Vital.org was rebranded as VITAL in 2011 This refresh gave us new confidence to embrace change and sharpen our service delivery.
+</div>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 20px;">
+We have championed digitalisation and automation. For example, VITAL was an early adopter of RPA technology within the public sector.
+</div>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 22px;">
+c. VITAL’s Culture Transformation
+</div>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 20px;">
+VITAL flourished with the strong commitment of our people. Some may remember the Family@Work movement, with the 12 Tribes and CSR activities.
+</div>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 24px;color:blue;">
+<b>Achievements in FY2020</b>
+</div>
+
 7.
 It was with a strong foundation, built upon the hard work and
 sweat of VITALites both past and present, that we entered
