@@ -5,7 +5,7 @@ date: 2022-04-05
 layout: post
 description: GovInsider's interview with CE on digitalisation and automation
 ---
-<div style="font-size: 24px;text-align:center;"><b>Making magic happen with AI and automation for Singapore’s government</b></div>
+<div style="font-size: 24px;"><b>Making magic happen with AI and automation for Singapore’s government</b></div>
 <div>&nbsp;&nbsp;</div>
 <div>
 Dennis Lui, Chief Executive of VITAL, Ministry of Finance, shares how digitalisation helps rank-and-file staff in government work more efficiently.
