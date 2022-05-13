@@ -15,7 +15,6 @@ Interview with Dennis Lui, Chief Executive at VITAL.
 By Amanda Oon | 29 JUL 2021</div>
 <img src="/images/Media/AI-Future_1.jpg" />	
 <div>&nbsp;&nbsp;</div>
-<div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">
 <b>What are the main priorities of VITAL for the post-pandemic future?</b>
 </div>
