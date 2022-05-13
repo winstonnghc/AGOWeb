@@ -133,9 +133,7 @@ The deposit record creation process is a finance service provided by VITAL for m
 <div style="font-size: 20px;">
 Prior to automating this process, government agencies would receive collections / deposits and input their relevant information into VITAL’s Deposit Record Form (i.e. an excel template) and submit this Form and its supporting documents as service request into VITAL’s Case Management System accessible by the agencies. VITAL’s officer would retrieve this Form and its supporting documents from the system and verify and input the data from the Form into a record in the Singapore Government’s Central Finance System. Please refer to diagram below illustrating the process before and after automation.
 </div>
-<div>&nbsp;&nbsp;</div>
-<img src="/images/Media/AI-Future_2.png" />	
-<div>&nbsp;&nbsp;</div>
+<img src="/images/Media/AI-Future_2.png" />
 <div style="font-size: 20px;">
 The unattended automation of this process allows the robot to extract the relevant information from the Form and input the data into the Central Finance System. This enables the officer to just follow up on exception cases notified by the robot, instead of processing all transactions manually.
 </div>
@@ -165,6 +163,6 @@ On the RPA front, we are augmenting with AI by exploring Document Understanding 
 </div>
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
-<div style="font-size: 18px;">
+<div style="font-size: 16px;">
 <i>Interview responses have been edited for clarity.</i>
 </div>
