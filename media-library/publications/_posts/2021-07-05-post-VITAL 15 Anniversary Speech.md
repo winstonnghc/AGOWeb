@@ -6,21 +6,15 @@ layout: post
 description: VITAL 15 Anniversary Speech
 ---
 <img src="/images/Media/VITAL-15-Anniversary_1.png" />	
-</div>
-<div>&nbsp;&nbsp;</div>
-<ol>
 <div style="font-size: 20px;">
+<ol>
 <li>Good morning VITALites. Today, 5th July 2021, marks VITAL's 15th birthday!</li>
+<div>&nbsp;&nbsp;</div>	
+<div style="font-size: 24px;color:blue;"><b>VITAL’s History</b>
 </div>
-<div>&nbsp;&nbsp;</div>
-<div style="font-size: 24px;color:blue;">
-<b>VITAL’s History</b>
-</div>
-<div>&nbsp;&nbsp;</div>
 <div style="font-size: 22px;">
 <b>a. Our Humble Challenging Beginning</b>
 </div>
-<div>&nbsp;&nbsp;</div>
 <div style="font-size: 20px;">
 <li>VITAL was officially launched on 5 July 2006 as CSS-Vital org. We faced challenges from the outset. The transactional processing functions were moved using a ‘lift and shift’ approach Streamlining of processes was difficult to do.</li>
 </div>
