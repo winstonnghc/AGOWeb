@@ -13,7 +13,6 @@ description: GovInsider's interview with CE on how AI and robots will change
 Interview with Dennis Lui, Chief Executive at VITAL.
 <br><br>
 By Amanda Oon | 29 JUL 2021</div>
-<div>&nbsp;&nbsp;</div>
 <img src="/images/Media/AI-Future_1.jpg" />	
 <div>&nbsp;&nbsp;</div>
 <div>&nbsp;&nbsp;</div>
