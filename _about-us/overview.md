@@ -1,29 +1,24 @@
 ---
 title: Overview
 permalink: /about-us/overview/
-description: VITAL serves more than 100,000 public officers from over 100 agencies.
+description: Partner in Strengthening Financial Governance and Enhancing Accountability
 ---
-<div id="overview-counter">
-    <div id="vital">
-        <div class="label-top"></div>
-        <div class="counter">1</div>
-        <div class="label-bottom">VITAL</div>
-    </div>
-    <div id="serving">
-        <div class="label-top">SERVING MORE THAN</div>
-        <div class="counter">100&nbsp;K</div>
-        <div class="label-bottom">PUBLIC OFFICERS</div>
-    </div>
-    <div id="agencies">
-        <div class="label-top">OVER</div>
-        <div class="counter">100</div>
-        <div class="label-bottom">AGENCIES</div>
-    </div>
-</div>
 
-VITAL is the Singapore Public Service’s central agency for corporate shared services entrusted with managing and transforming corporate service delivery for Whole-of-Government. Established as a department under the Ministry of Finance in 2006, VITAL aggregates common corporate services in areas such as human resources (HR) & payroll, finance and procurement within the public sector to achieve economies of scale, improve efficiency, strengthen governance and enhance service quality. As a policy-ops-tech innovation platform and robotics & automation (R&A) lead for corporate and administrative services, VITAL also partners the functional leaders, as well as policy and system owners (namely, the Public Service Division, Accountant-General’s Department and Government Procurement Function Office) to transform Public Service corporate services. 
 
-With more than 500 staff and still growing, VITAL is serving more than 100 public agencies (i.e.  ministries, organs of state, or statutory boards) and over 100,000 public officers.
+AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits. Our independence allows us to carry out our audits without fear or favour.
+
+We audit:</p>
+
+government ministries and departments </p>
+organs of state </p>
+statutory boards </p>
+government funds</p>
+other public authorities and bodies administering public funds (upon their request for audit), e.g. government-owned companies </p>
+We report our audit observations to:
+
+the President, Parliament and the public through the Annual Report of the Auditor-General
+management of the organisations audited through management letters
+Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
 
 <div class="vision-mission-values">
     <div class="block">
